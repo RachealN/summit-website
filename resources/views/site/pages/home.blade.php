@@ -5,85 +5,50 @@
 @section('content')
     <!-- Banner Section -->
     <section class="banner-section">
-
         <div class="banner-carousel owl-carousel owl-theme">
-
             <!-- Slide Item -->
-
             <div class="slide-item" style="background-image: url(images/main-slider/background-img.png);">
-
                 <div class="auto-container">
-
                     <div class="content-box">
-
                         <span class="title">The Source of the Nile</span>
-
                         <h2 class="p-0 m-0"> Women in Agri-Business Summit & Expo</h2>
-
                         <ul class="info-list">
-
                             <li><strong>Main Theme:</strong> New Pathways for Inclusive Transformation in Africa</li>
-
                         </ul>
-
                         <ul class="info-list">
-
                             <li><strong>Subtheme:</strong> Partnerships for Investment and Economic Growth in
                                 Communities
                             </li>
-
                         </ul>
-
                         <ul class="info-list">
-
                             <li><strong> Register here to attend in person or Virtually</strong></li>
-
                         </ul>
                         <div class="btn-box"><a href="register.html" class="theme-btn btn-style-two"><span
                                     class="btn-title">Register Now</span></a></div>
-
                     </div>
-
                 </div>
-
             </div>
-
 
             <!-- Slide Item -->
 
             <div class="slide-item" style="background-image: url(images/gallery/expo1.png);">
-
                 <div class="auto-container">
-
                     <div class="content-box">
-
                         <span class="title">The Source of the Nile</span>
-
                         <h2> Women in Agri-Business Summit & Expo</h2>
-
                         <ul class="info-list">
-
                             <li><strong>Main Theme:</strong> New Pathways for Inclusive Transformation in Africa</li>
-
                         </ul>
-
                         <ul class="info-list">
-
                             <li><strong>Subtheme:</strong> Partnerships for Investment and Economic Growth in
                                 Communities
                             </li>
                         </ul>
-
                         <ul class="info-list">
-
                             <li><strong> Register here to attend in person or Virtually</strong></li>
-
                         </ul>
-
-                        <!-- <div class="title">Register here to attend in person or Virtually</div> -->
-                        <!-- <br> -->
                         <div class="btn-box"><a href="register.html" class="theme-btn btn-style-two"><span
-                                    class="btn-title">Register Now</span></a></div>
+                            class="btn-title">Register Now</span></a></div>
 
                     </div>
 
@@ -206,127 +171,49 @@
 
 
     <!-- Features Section Two -->
-    <section class="features-section-two">
 
+    <section class="features-section">
         <div class="auto-container">
-
             <div class="anim-icons">
-
-                <span class="icon twist-line-1 wow zoomIn"></span>
-
-                <span class="icon twist-line-2 wow zoomIn" data-wow-delay="1s"></span>
-
-                <span class="icon twist-line-3 wow zoomIn" data-wow-delay="2s"></span>
-
+                <span class="icon icon-shape-3 wow fadeIn"></span>
+                <span class="icon icon-line-1 wow fadeIn"></span>
             </div>
-
-
             <div class="row">
-
-                <!-- Title Block -->
-
-                <div class="title-block col-lg-4 col-md-12 col-sm-12 wow fadeInUp">
-
-                    <div class="inner-box">
-
-                        <div class="sec-title">
-
-                            <span class="title">THE PURPOSE OF THE SUMMIT AND EXPO</span>
-
-                            <!-- <h2>THE EXPO </h2> -->
-
-                        </div>
-
-                    </div>
-
-                </div>
-
-
                 <!-- Feature Block -->
-
-                <div class="feature-block-two col-lg-4 col-md-6 col-sm-12 wow fadeInUp">
-
+                <div class="feature-block col-lg-4 col-md-6 col-sm-12 wow fadeInUp">
                     <div class="inner-box">
-
-                        <div class="icon-box"><span class="icon flaticon-rocket-ship"></span></div>
-
-                        <h4><a>Pitch</a></h4>
-
-                        <div class="text">Pitch their Business ideas and services.</div>
-
-                    </div>
-
-                </div>
-
-
-                <!-- Feature Block -->
-
-                <div class="feature-block-two col-lg-4 col-md-6 col-sm-12 wow fadeInUp">
-
-                    <div class="inner-box">
-
                         <div class="icon-box"><span class="icon flaticon-search"></span></div>
-
-                        <h4><a>Connect</a></h4>
-
-                        <div class="text">Connect with financiers, industry leaders, and Policy Makers.</div>
-                    </div>
-
-                </div>
-
-
-                <!-- Feature Block -->
-
-                <!-- <div class="feature-block-two col-lg-4 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay="400ms">
-
-                    <div class="inner-box">
-
-                        <div class="icon-box"><span class="icon flaticon-diamond-1"></span></div>
-
-                        <h4><a href="https://expert-themes.com/support/ticket/7690">Pitch</a></h4>
-
-                        <div class="text">Pitch their Business ideas and services.</div>
-
-                    </div>
-
-                </div> -->
-
-
-                <!-- Feature Block -->
-
-                <!-- <div class="feature-block-two col-lg-4 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay="800ms">
-
-                    <div class="inner-box">
-
-                        <div class="icon-box"><span class="icon flaticon-success"></span></div>
-
-                        <h4><a href="https://expert-themes.com/support/ticket/7690">Connect</a></h4>
-
-                        <div class="text">Connect with financiers, industry leaders, and Policy Makers.</div>
-
-                    </div>
-
-                </div> -->
-
-
-                <!-- Feature Block -->
-
-                <div class="feature-block-two col-lg-4 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay="1200ms">
-
-                    <div class="inner-box">
-
-                        <div class="icon-box"><span class="icon flaticon-lecture"></span></div>
-
-                        <h4><a>Create</a></h4>
-
+                        <div class="link-box"><a class="theme-btn">Create</a></div>
+                        <br>
                         <div class="text">Create and refine Partnerships for Business Growth</div>
-
                     </div>
 
                 </div>
 
-            </div>
 
+
+                <!-- Feature Block -->
+
+                <div class="feature-block col-lg-4 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay="400ms">
+                    <div class="inner-box">
+                        <div class="icon-box"><span class="icon flaticon-diamond-1"></span></div>
+                        <div class="link-box"><a class="theme-btn">Connect</a></div>
+                        <br>
+                        <div class="text">Connect with financiers, industry leaders, and Policy Makers.</div>
+                    </div>
+
+                </div>
+
+                <!-- Feature Block -->
+                <div class="feature-block col-lg-4 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay="800ms">
+                    <div class="inner-box">
+                        <div class="icon-box"><span class="icon flaticon-success"></span></div>
+                        <div class="link-box"><a class="theme-btn">Pitch</a></div>
+                        <br><br>
+                        <div class="text">Pitch their Business ideas and services</div>
+                    </div>
+                </div>
+            </div>
         </div>
 
     </section>
@@ -340,7 +227,6 @@
                 <span class="title"> Speakers</span>
                 <h2>Our Distinguished Guests - Tentative</h2>
             </div>
-
             <div class="row">
                 <!-- Speaker Block -->
                 <div class="speaker-block-one col-xl-3 col-lg-4 col-md-6 col-sm-12">
