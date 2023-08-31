@@ -64,29 +64,31 @@
                             <div class="contact-form">
                                 <body>
                                 <div class="container border bg-light p-5">
-                                    <div class="form-group mt-10">
-                                        <h5 for="name">Name</h5>
-                                        <input
-                                            type="text"
-                                            class="form-control"
-                                            id="name"
-                                            placeholder="Enter your full names"
-                                        />
-                                    </div>
-                                    <div class="form-group">
-                                        <h5 for="email">Email</h5>
-                                        <input
-                                            type="email"
-                                            class="form-control"
-                                            id="email"
-                                            placeholder="Enter email"
-                                        />
-                                    </div>
-                                    <div class="form-group">
-                                        <h5 for="message">Message</h5>
-                                        <textarea class="form-control" id="message" rows="3" placeholder="Message"></textarea>
-                                    </div>
-                                    <button class="btn btn-primary" onclick="sendMail()">Submit</button>
+                                    <form method="POST" action="#">
+                                        <div class="form-group mt-10">
+                                            <h5 for="name">Name</h5>
+                                            <input
+                                                type="text"
+                                                class="form-control"
+                                                id="name"
+                                                placeholder="Enter your full names"
+                                            />
+                                        </div>
+                                        <div class="form-group">
+                                            <h5 for="email">Email</h5>
+                                            <input
+                                                type="email"
+                                                class="form-control"
+                                                id="email"
+                                                placeholder="Enter email"
+                                            />
+                                        </div>
+                                        <div class="form-group">
+                                            <h5 for="message">Message</h5>
+                                            <textarea class="form-control" id="message" rows="3" placeholder="Message"></textarea>
+                                        </div>
+                                        <button class="btn btn-primary">Submit</button>
+                                    </form>
                                 </div>
                                 </body>
                             </div>

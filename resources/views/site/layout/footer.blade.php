@@ -123,65 +123,32 @@
                                             <div class="text"><a href="tel:+1-345-5678-77">+256 (0)7777777777</a></div>
 
                                         </li>
-
-
-
                                         <li>
-
                                             <span class="icon flaticon-paper-plane"></span>
-
                                             <div class="text"><a href="mailto:support@example.com">Secretariat@afriwgsdgsummit.org</a></div>
-
                                         </li>
-
-
-
                                         <li>
-
                                             <span class="icon flaticon-worldwide"></span>
-
                                             <div class="text">Kampala, Uganda</div>
-
                                         </li>
-
                                     </ul>
-
                                 </div>
-
                             </div>
-
                         </div>
-
                     </div>
-
                 </div>
-
             </div>
-
         </div>
-
     </div>
-
-
 
     <!--Footer Bottom-->
-
     <div class="footer-bottom">
-
         <div class="auto-container">
-
             <div class="inner-container clearfix">
-
                 <div class="copyright-text">
-
-                    <p>© Copyright 2023 All Rights Reserved by African Women and Girls SDGs Summit</p>
-
+                    <p>&copy; Copyright {{ now()->format('Y') }} All Rights Reserved by African Women and Girls SDGs Summit</p>
                 </div>
-
             </div>
-
         </div>
-
     </div>
-
 </footer>

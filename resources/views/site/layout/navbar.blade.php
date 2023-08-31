@@ -40,7 +40,7 @@
                 <div class="outer-box">
                     <!-- Button Box -->
                     <div class="btn-box">
-                        <a href="register.html" class="theme-btn btn-style-one"><span class="btn-title">Register Here</span></a>
+                        <a href="{{ route('register') }}" class="theme-btn btn-style-one"><span class="btn-title">Register Here</span></a>
                     </div>
 
                 </div>

@@ -1,5 +1,7 @@
 @extends('site.layout.app')
 
+@section('title', 'Home Page')
+
 @section('content')
     <!-- Banner Section -->
     <section class="banner-section">
