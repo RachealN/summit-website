@@ -185,13 +185,10 @@
                         <div class="icon-box"><span class="icon flaticon-search"></span></div>
                         <div class="link-box"><a class="theme-btn">Create</a></div>
                         <br>
-                        <div class="text">Create and refine Partnerships for Business Growth</div>
+                        <div class="text">Create opportunities for women in agri-business to join domestic, regional and global value chains</div>
                     </div>
 
                 </div>
-
-
-
                 <!-- Feature Block -->
 
                 <div class="feature-block col-lg-4 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay="400ms">
@@ -211,6 +208,40 @@
                         <div class="link-box"><a class="theme-btn">Pitch</a></div>
                         <br><br>
                         <div class="text">Pitch their Business ideas and services</div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row">
+                <!-- Feature Block -->
+                <div class="feature-block col-lg-4 col-md-6 col-sm-12 wow fadeInUp">
+                    <div class="inner-box">
+                        <div class="icon-box"><span class="icon flaticon-search"></span></div>
+                        <div class="link-box"><a class="theme-btn">Explore</a></div>
+                        <br>
+                        <div class="text">Explore innovative financing partnership with the private sector, industry experts and government agencies.</div>
+                    </div>
+
+                </div>
+                <!-- Feature Block -->
+
+                <div class="feature-block col-lg-4 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay="400ms">
+                    <div class="inner-box">
+                        <div class="icon-box"><span class="icon flaticon-diamond-1"></span></div>
+                        <div class="link-box"><a class="theme-btn">Commit</a></div>
+                        <br>
+                        <div class="text">Commit to implimenting policy and financing mechanisms for supporting women in agri-businesses, including capacity-strengthening programs.</div>
+                    </div>
+
+                </div>
+
+                <!-- Feature Block -->
+                <div class="feature-block col-lg-4 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay="800ms">
+                    <div class="inner-box">
+                        <div class="icon-box"><span class="icon flaticon-success"></span></div>
+                        <div class="link-box"><a class="theme-btn">Network</a></div>
+                        <br><br>
+                        <div class="text">Networking,Engaging Sessions,Inspiring Speakers, Exhibitions and more </div>
                     </div>
                 </div>
             </div>
@@ -367,92 +398,6 @@
         </div>
     </section>
     <!-- End Speakers Section -->
-
-
-    <section class="features-section-two">
-
-        <div class="auto-container">
-
-            <div class="anim-icons">
-
-                <span class="icon twist-line-1 wow zoomIn"></span>
-
-                <span class="icon twist-line-2 wow zoomIn" data-wow-delay="1s"></span>
-
-                <span class="icon twist-line-3 wow zoomIn" data-wow-delay="2s"></span>
-
-            </div>
-
-
-            <div class="row">
-
-                <div class="title-block col-lg-4 col-md-12 col-sm-12 wow fadeInUp">
-
-                    <div class="inner-box">
-
-                        <div class="sec-title">
-
-                            <span class="title">Government, Multi-lateral, and Private Sector
-                                Partners will:</span>
-
-                            <!-- <h2>Feature </h2> -->
-
-                        </div>
-
-                    </div>
-
-                </div>
-
-                <!-- Feature Block -->
-                <div class="feature-block-three col-lg-6 col-md-12 col-sm-12 wow fadeInUp">
-                    <div class="inner-box">
-                        <div class="icon-box"><span class="icon flaticon-lecture"></span></div>
-                        <h4><a>Create</a></h4>
-                        <div class="text">Create opportunities for women in agri-business to join domestic, regional and
-                            global value chains
-                        </div>
-                        <div class="link-box"><a class="theme-btn"><span class="fa fa-angle-right"></span></a></div>
-                    </div>
-                </div>
-
-                <!-- Feature Block -->
-                <div class="feature-block-three col-lg-6 col-md-12 col-sm-12 wow fadeInUp">
-                    <div class="inner-box">
-                        <div class="icon-box"><span class="icon flaticon-search"></span></div>
-                        <h4><a>Explore</a></h4>
-                        <div class="text">Explore innovative financing partnership with the private sector, industry
-                            experts and government agencies.
-                        </div>
-                        <div class="link-box"><a class="theme-btn"><span class="fa fa-angle-right"></span></a></div>
-                    </div>
-                </div>
-
-                <!-- Feature Block -->
-                <div class="feature-block-three col-lg-6 col-md-12 col-sm-12 wow fadeInUp" data-wow-delay="400ms">
-                    <div class="inner-box">
-                        <div class="icon-box"><span class="icon flaticon-diamond-1"></span></div>
-                        <h4><a>Commit</a></h4>
-                        <div class="text">Commit to implimenting policy and financing mechanisms for
-                            supporting women in agri-businesses, including
-                            capacity-strengthening programs.
-                        </div>
-                        <div class="link-box"><a class="theme-btn"><span class="fa fa-angle-right"></span></a></div>
-                    </div>
-                </div>
-
-                <!-- Feature Block -->
-                <!-- <div class="feature-block-three col-lg-6 col-md-12 col-sm-12 wow fadeInUp" data-wow-delay="800ms">
-                    <div class="inner-box">
-                        <div class="icon-box"><span class="icon flaticon-success"></span></div>
-                        <h4><a href="https://expert-themes.com/support/ticket/7690">Party</a></h4>
-                        <div class="text">Dolor sit amet consectetur elit sed do eiusmod tempor incd idunt.</div>
-                        <div class="link-box"><a href="https://expert-themes.com/support/ticket/7690" class="theme-btn"><span class="fa fa-angle-right"></span></a></div>
-                    </div>
-                </div> -->
-            </div>
-        </div>
-
-    </section>
 
     <!-- schedule Section -->
     <section class="schedule-section style-three">
@@ -915,7 +860,7 @@
 
 
     <!-- Why Choose Us -->
-    <section class="why-choose-us">
+    {{-- <section class="why-choose-us">
 
         <div class="auto-container">
 
@@ -928,11 +873,6 @@
                         <div class="sec-title">
 
                             <span class="title">JOIN THE EVENT</span>
-
-                            <!-- <h2>Join the event</h2> -->
-
-                            <!-- <div class="text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmtempor incididunt labore et dolore magna aliqu enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip</div> -->
-
                             <div class="text">
                                 Join us for an extraordinary event dedicated to fostering inclusive transformation in
                                 Africa. This summit serves as a crucial platform to showcase the remarkable women who
@@ -950,8 +890,6 @@
                             <li>Inspiring Speakers</li>
 
                             <li>Exhibitions and Sideline Events</li>
-
-                            <!-- <li>Expert-created content and resources</li> -->
 
                         </ul>
 
@@ -980,7 +918,7 @@
 
         </div>
 
-    </section>
+    </section> --}}
     <!-- End Why Choose Us -->
 
     <!-- Event Info Section -->
