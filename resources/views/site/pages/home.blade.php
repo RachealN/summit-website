@@ -7,11 +7,12 @@
     <section class="banner-section">
         <div class="banner-carousel owl-carousel owl-theme">
             <!-- Slide Item -->
-            <div class="slide-item" style="background-image: url(images/main-slider/background-img.png);">
+            <div class="slide-item" style="background-image: url(images/gallery/women.png);">
                 <div class="auto-container">
                     <div class="content-box">
                         <span class="title">The Source of the Nile</span>
-                        <h2 class="p-0 m-0"> Women in Agri-Business Summit & Expo</h2>
+                        <span class="title">Women in Agri-Business Summit & Expo</span>
+                        <h2 class="p-0 m-0">Coming Soon </h2><br>
                         <ul class="info-list">
                             <li><strong>Main Theme:</strong> New Pathways for Inclusive Transformation in Africa</li>
                         </ul>
@@ -31,11 +32,12 @@
 
             <!-- Slide Item -->
 
-            <div class="slide-item" style="background-image: url(images/gallery/expo1.png);">
+            <div class="slide-item" style="background-image: url(images/gallery/women.png);">
                 <div class="auto-container">
                     <div class="content-box">
                         <span class="title">The Source of the Nile</span>
-                        <h2> Women in Agri-Business Summit & Expo</h2>
+                        <span class="title">Women in Agri-Business Summit & Expo</span>
+                        <h2 class="p-0 m-0">Coming Soon </h2><br>
                         <ul class="info-list">
                             <li><strong>Main Theme:</strong> New Pathways for Inclusive Transformation in Africa</li>
                         </ul>
@@ -290,11 +292,11 @@
                 <div class="speaker-block-one col-xl-3 col-lg-4 col-md-6 col-sm-12">
                     <div class="inner-box">
                         <!-- <div class="image-box"> -->
-                        <figure class="image"><a><img src="images/resource/sima.png" alt=""></a></figure>
+                        <figure class="image"><a><img src="images/resource/maxime3.png" alt=""></a></figure>
                         <!-- </div> -->
                         <div class="info-box">
-                            <h4 class="name">Ms. Sima Bahous</h4>
-                            <span class="designation">Executive Director of UN Women</span>
+                            <h4 class="name">Dr.Maxime Houinato</h4>
+                            <span class="designation">Regional Director, UN Women East and <br> Southern Africa Regional Office</span>
                         </div>
                     </div>
                 </div>
@@ -835,7 +837,7 @@
 
 
     <!-- Video Section -->
-    <section class="video-section" style="background-image: url(images/resource/expo1.png);">
+    <section class="video-section" style="background-image: url(images/gallery/women.png);">
 
         <div class="auto-container">
 
@@ -846,7 +848,8 @@
                 <h2>Women in Agri-Business Summit & Expo !!</h2>
                 <br><br>
                 <div class="btn-box">
-                    <a href="contact.html" class="theme-btn btn-style-one"><span class="btn-title">Contact Us</span></a>
+                   <a class="play-now" data-fancybox="gallery" data-caption=""><i class="icon flaticon-play-button-3" aria-hidden="true"></i><span class="ripple"></span></a> 
+                    {{-- <a href="contact.html" class="theme-btn btn-style-one"><span class="btn-title">Contact Us</span></a> --}}
                 </div>
 
                 <!-- <a class="play-now" data-fancybox="gallery" data-caption=""><i class="icon flaticon-play-button-3" aria-hidden="true"></i><span class="ripple"></span></a> -->

@@ -215,7 +215,7 @@
                                     <ul class="contact-list">
                                         <li>
                                             <span class="icon flaticon-clock"></span>
-                                            <div class="text">09:00 - 18:00</div>
+                                            <div class="text">09:00 - 17:00</div>
                                         </li>
                                         <li>
                                             <span class="icon flaticon-phone"></span>
@@ -224,7 +224,6 @@
                                         <li>
                                             <span class="icon flaticon-paper-plane"></span>
                                             <div class="text"><a href="mailto:Secretariat@afriwgsdgsummit.org">Secretariat@afriwgsdgsummit.org</a></div>
-                                            {{-- <div class="text"><a href="support@example.com">support@example.com</a></div> --}}
                                         </li>
                                         <li>
                                             <span class="icon flaticon-worldwide"></span>
@@ -280,9 +279,7 @@
             <div class="inner-container clearfix">
 
                 <div class="copyright-text">
-
-                    <p>© Copyright 2023 All Rights Reserved by <a href="index.html">Expert-Themes</a></p>
-
+                    <p>&copy; Copyright {{ now()->format('Y') }} All Rights Reserved by African Women and Girls SDGs Summit</p>
                 </div>
 
             </div>

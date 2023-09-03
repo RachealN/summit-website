@@ -4,7 +4,7 @@
     <!--Page Title-->
     <section class="page-title" style="background-image:url(images/background/9.jpg);">
         <div class="auto-container">
-            <h1>Contact Us</h1>
+            <h1>Speakers</h1>
         </div>
     </section>
     <!-- Speker Detail -->
@@ -24,15 +24,12 @@
                         <ul class="social-icon-two social-icon-colored text-center">
                             <p>President Of Uganda</p>
 
-                            <!-- <li><a href="#"><span class="fab fa-facebook-f"></span></a></li>
-
-                            <li><a href="#"><span class="fab fa-google-plus-g"></span></a></li>
+                            <li><a href="#"><span class="fab fa-facebook-f"></span></a></li>
 
                             <li><a href="#"><span class="fab fa-twitter"></span></a></li>
 
-                            <li><a href="#"><span class="fab fa-skype"></span></a></li>
 
-                            <li><a href="#"><span class="fab fa-linkedin-in"></span></a></li> -->
+                            <li><a href="#"><span class="fab fa-linkedin-in"></span></a></li>
 
                         </ul>
 
@@ -136,6 +133,7 @@ Guided by the United Nations Uganda’s vision of contributing to a transformed,
     </section>
 
 
+
     <section class="speaker-detail">
 
         <div class="auto-container">
@@ -146,20 +144,21 @@ Guided by the United Nations Uganda’s vision of contributing to a transformed,
 
                     <div class="image-box">
 
-                        <figure class="image"><img src="images/resource/sima.png" alt=""></figure>
+                        <figure class="image"><img src="images/resource/amina.png" alt=""></figure>
 
                         <ul class="social-icon-two social-icon-colored text-center">
-                            <p>Executive Director of UN Women</p>
 
-                            <!-- <li><a href="#"><span class="fab fa-facebook-f"></span></a></li>
+                          <li><a href="#"><span class="fab fa-facebook-f"></span></a></li>
 
-                            <li><a href="#"><span class="fab fa-google-plus-g"></span></a></li>
+                            {{-- <li><a href="#"><span class="fab fa-google-plus-g"></span></a></li> --}}
 
                             <li><a href="#"><span class="fab fa-twitter"></span></a></li>
 
-                            <li><a href="#"><span class="fab fa-skype"></span></a></li>
+                            {{-- <li><a href="#"><span class="fab fa-skype"></span></a></li> --}}
 
-                            <li><a href="#"><span class="fab fa-linkedin-in"></span></a></li> -->
+                            <li><a href="#"><span class="fab fa-linkedin-in"></span></a></li> 
+
+                            <p>UN Deputy Secretary-General</p>
 
                         </ul>
 
@@ -175,11 +174,85 @@ Guided by the United Nations Uganda’s vision of contributing to a transformed,
 
                         <div class="text-box">
 
-                            <h3>Executive Director of UN Women, <br>Ms. Sima Bahous</h3>
+                            <h3>UN Deputy Secretary-General <br>Ms. Amina J. Mohammed</h3>
 
                             <p>
-                                Ms. Sima Sami Bahous became UN Women’s third Executive Director on 30 September 2021. A champion for women and girls, gender equality, and youth empowerment, as well as a keen advocate for quality education, poverty alleviation, and inclusive governance, 
-                                <br><br>Ms. Bahous brings to the position more than 35 years of leadership experience at the grassroots, national, regional, and international levels, coupled with expertise in advancing women’s empowerment and rights, addressing discrimination and violence, and promoting sustainable socio-economic development towards the achievement of the Sustainable Development Goals.
+                                Ms. Amina J. Mohammed is the Deputy Secretary-General of the United Nations and Chair of the United Nations Sustainable Development Group.
+
+                                Prior to her appointment, 
+                                <br><br>Ms. Mohammed served as Minister of Environment of the Federal Republic of Nigeria where she steered the country’s efforts on climate action and efforts to protect the natural environment.
+
+                                Ms. Mohammed first joined the United Nations in 2012 as Special Adviser to former Secretary-General Ban Ki-moon with the responsibility for post-2015 development planning. She led the process that resulted in global agreement around the 2030 Agenda for Sustainable Development and the creation of the Sustainable Development Goals.  
+                                                            </p>
+
+                            <!-- <h4>Sessions by Marke</h4> -->
+
+                
+                           <p>Ms. Mohammed began her career working on the design of schools and clinics in Nigeria. She served as an advocate focused on increasing access to education and other social services, before moving into the public sector, where she rose to the position of adviser to four successive Presidents on poverty, public sector reform, and sustainable development.
+
+                            <br><br>Ms. Mohammed has been conferred several honorary doctorates and has served as an adjunct professor, lecturing on international development. The recipient of various global awards, Ms. Mohammed has served on numerous international advisory boards and panels. She is the mother of six children and has four grandchildren.</p>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </section>
+
+
+    <section class="speaker-detail">
+
+        <div class="auto-container">
+
+            <div class="row">
+
+                <div class="image-column col-lg-4 col-md-12 col-sm-12">
+
+                    <div class="image-box">
+
+                        <figure class="image"><img src="images/resource/maxime3.png" alt=""></figure>
+
+                        <ul class="social-icon-two social-icon-colored text-center">
+                            <p>Regional Director, UN Women East and Southern Africa Regional Office</p>
+
+                             <li><a href="#"><span class="fab fa-facebook-f"></span></a></li>
+
+                            {{-- <li><a href="#"><span class="fab fa-google-plus-g"></span></a></li> --}}
+
+                            <li><a href="#"><span class="fab fa-twitter"></span></a></li>
+
+                            {{-- <li><a href="#"><span class="fab fa-skype"></span></a></li> --}}
+
+                            <li><a href="#"><span class="fab fa-linkedin-in"></span></a></li> 
+
+                        </ul>
+
+                    </div>
+
+                </div>
+
+
+
+                <div class="info-column col-lg-8 col-md-12 col-sm-12">
+
+                    <div class="inner-column">
+
+                        <div class="text-box">
+
+                            <h3>Regional Director, UN Women East and Southern Africa Regional Office <br>Dr.Maxime Houinato</h3>
+
+                            <p>
+                                Dr. Maxime Houinato has been appointed as the Regional Director for Eastern and Southern Africa Regional Office Nairobi, Kenya with effect from 1 September 2021.
+                            </p>
+
+
+                            <p>
+                                Dr. Houinato has been UN Women Country Representative in Uganda since 2018 where he contributed to significant growth of programme through the successful implementation of a robust resource mobilization strategy. Before going to Uganda, Dr. Houinato served as Deputy Regional Director of UN Women Regional Office for Western and Southern Africa (2008-2014) and UN Women Country Representative in Mali (2014-2018). Dr. Houinato has been an active member of the UN Regional Quality and Support Assurance Team of the UNDG in West Africa, and a key contributor to UN’s "Deliver as One" model. He supported the design and implementation of a series of positive legislation, public policies, and large-scale programs to promote women’s leadership, the involvement of women in business, and critical value-chains as well as ending violence against women and girls.
                             </p>
                             <!-- <h4>Sessions by Marke</h4> -->
 
@@ -250,75 +323,7 @@ Guided by the United Nations Uganda’s vision of contributing to a transformed,
 
 
 
-    <section class="speaker-detail">
-
-        <div class="auto-container">
-
-            <div class="row">
-
-                <div class="image-column col-lg-4 col-md-12 col-sm-12">
-
-                    <div class="image-box">
-
-                        <figure class="image"><img src="images/resource/amina.png" alt=""></figure>
-
-                        <ul class="social-icon-two social-icon-colored text-center">
-
-                            <!-- <li><a href="#"><span class="fab fa-facebook-f"></span></a></li>
-
-                            <li><a href="#"><span class="fab fa-google-plus-g"></span></a></li>
-
-                            <li><a href="#"><span class="fab fa-twitter"></span></a></li>
-
-                            <li><a href="#"><span class="fab fa-skype"></span></a></li>
-
-                            <li><a href="#"><span class="fab fa-linkedin-in"></span></a></li> -->
-
-                            <p>UN Deputy Secretary-General</p>
-
-                        </ul>
-
-                    </div>
-
-                </div>
-
-
-
-                <div class="info-column col-lg-8 col-md-12 col-sm-12">
-
-                    <div class="inner-column">
-
-                        <div class="text-box">
-
-                            <h3>UN Deputy Secretary-General <br>Ms. Amina J. Mohammed</h3>
-
-                            <p>
-                                Ms. Amina J. Mohammed is the Deputy Secretary-General of the United Nations and Chair of the United Nations Sustainable Development Group.
-
-                                Prior to her appointment, 
-                                <br><br>Ms. Mohammed served as Minister of Environment of the Federal Republic of Nigeria where she steered the country’s efforts on climate action and efforts to protect the natural environment.
-
-                                Ms. Mohammed first joined the United Nations in 2012 as Special Adviser to former Secretary-General Ban Ki-moon with the responsibility for post-2015 development planning. She led the process that resulted in global agreement around the 2030 Agenda for Sustainable Development and the creation of the Sustainable Development Goals.  
-                                                            </p>
-
-                            <!-- <h4>Sessions by Marke</h4> -->
-
-                
-                           <p>Ms. Mohammed began her career working on the design of schools and clinics in Nigeria. She served as an advocate focused on increasing access to education and other social services, before moving into the public sector, where she rose to the position of adviser to four successive Presidents on poverty, public sector reform, and sustainable development.
-
-                            <br><br>Ms. Mohammed has been conferred several honorary doctorates and has served as an adjunct professor, lecturing on international development. The recipient of various global awards, Ms. Mohammed has served on numerous international advisory boards and panels. She is the mother of six children and has four grandchildren.</p>
-
-                        </div>
-
-                    </div>
-
-                </div>
-
-            </div>
-
-        </div>
-
-    </section>
+   
 
     <!--End Speker Detail -->
 
