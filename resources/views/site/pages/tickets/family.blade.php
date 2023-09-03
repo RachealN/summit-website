@@ -21,12 +21,14 @@
                 <div class="content-column col-lg-8 col-md-12 col-sm-12 order-2">
                     <div class="inner-column">
                         <h2>Price: <span>$59</span></h2>
-                        <p>Dolor sit amet consectetur elit sed do eiusmod tempor incd idunt labore et dolore magna aliqua enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip exea commodo consequat.duis aute irure dolor in repre hen derit in voluptate velit esse cillum dolore eu fugiat nulla pariatur cepteur sint occaecat cupidatat eaque ipsa quae illo proident sunt in culpa qui officia deserunt mollit anim id est laborum perspiciatis</p>
-                        <p>derit in voluptate velit esse cillum dolore eu fugiat nulla pariatur cepteur sint occaecat cupidatat eaque ipsa quae illo proident sunt in culpa qui officia deserunt mollit anim id est laborum perspiciatis unde omnis iste natus error sit voluptatem accusantium dolore laudant rem aperiam eaque ipsa quae ab illo inventore veritatis quasi architecto.</p>
+                        <p>
+                            Join us for an extraordinary event dedicated to fostering inclusive transformation in Africa. This summit serves as a crucial platform to showcase the remarkable women who lead impactful businesses and aims to facilitate partnerships with government decision-makers, industry leaders, and representatives of the international community. Together, we will pave the way for new pathways towards inclusive development across the continent.
+                        </p>
+
 
                         <h3>Benefits of Day Pass package</h3>
 
-                        <p>Dolor sit amet consectetur elit sed do eiusmod tempor incd idunt labore et dolore magna aliqua enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip exea commodo consequat.</p>
+                        {{-- <p>Dolor sit amet consectetur elit sed do eiusmod tempor incd idunt labore et dolore magna aliqua enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip exea commodo consequat.</p> --}}
 
                         <ul class="list-style-one">
 
@@ -37,15 +39,8 @@
                             <li>Dedicated blog post thanking each Gold.</li>
 
                             <li>Acknowledgment and opening and closing.</li>
-
                         </ul>
-
-                        <h3>Day Pass Features</h3>
-
-                        <p>Dolor sit amet consectetur elit sed do eiusmod tempor incd idunt labore et dolore magna aliqua enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip exea commodo consequat.duis aute irure dolor in repre hen.</p>
-
                     </div>
-
                 </div>
 
                 <!-- Form Column -->
@@ -80,14 +75,14 @@
                         <div class="follow-us">
                             <h3>Follow Us</h3>
                             <ul class="social-icon-two social-icon-colored">
-                                <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+                                <li><a href="#"><i class="fab fa-linkedin"></i></a></li>
                                 <li><a href="#"><i class="fab fa-twitter"></i></a></li>
                                 <li><a href="#"><i class="fab fa-youtube"></i></a></li>
                             </ul>
                         </div>
                         <div class="support-box">
                             <h3>Call for Support</h3>
-                            <p>Me old mocker spend a penny crack nice one a blinding shot young delinquent.</p>
+                            <p>For any inquiries or further information, please reach out to</p>
                             <div class="number"><span class="fa fa-phone-volume"></span> <a href="tel:+256777526678">+256777526678</a></div>
                         </div>
                     </div>

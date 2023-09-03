@@ -32,6 +32,10 @@ Route::get('/events', function () {
     return view('site.pages.events');
 })->name('events');
 
+Route::get('/gallery', function () {
+    return view('site.pages.gallery');
+})->name('gallery');
+
 Route::get('/contact', function () {
     return view('site.pages.contact');
 })->name('contact');

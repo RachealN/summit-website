@@ -346,8 +346,16 @@
 
     <!-- Call to action -->
 
-    <section class="call-to-action" style="background-image: url(images/background/hear-me.png);">
-
+    <section class="video-section" style="background-image: url(images/gallery/women.png);">
+        {{-- <div class="auto-container">
+            <div class="content-box">
+                <div class="text">THE SOURCE OF THE NILE</div>
+                <h2>Women in Agri-Business Summit & Expo !!</h2>
+                <div class="btn-box">
+                    <a class="play-now" data-fancybox="gallery" data-caption=""><i class="icon flaticon-play-button-3" aria-hidden="true"></i><span class="ripple"></span></a> 
+                </div>
+            </div>
+        </div> --}}
         <div class="auto-container">
 
             <div class="content-box">
@@ -355,17 +363,17 @@
                 <div class="text">THE SOURCE OF THE NILE</div>
 
                 <h2>Women in Agri-Business Summit & Expo !!</h2>
-
+                <br><br>
                 <div class="btn-box">
-
-                    <a href="contact.html" class="theme-btn btn-style-one"><span class="btn-title">Contact Us</span></a>
-
+                   <a class="play-now" data-fancybox="gallery" data-caption=""><i class="icon flaticon-play-button-3" aria-hidden="true"></i><span class="ripple"></span></a> 
+                    {{-- <a href="contact.html" class="theme-btn btn-style-one"><span class="btn-title">Contact Us</span></a> --}}
                 </div>
+
+                <!-- <a class="play-now" data-fancybox="gallery" data-caption=""><i class="icon flaticon-play-button-3" aria-hidden="true"></i><span class="ripple"></span></a> -->
 
             </div>
 
         </div>
-
     </section>
 
     <!--End Call to action -->

@@ -6,9 +6,9 @@
 
         <div class="auto-container clearfix">
 
-            <div class="logo-box">
+            {{-- <div class="logo-box">
                 <div class="logo"><a href="index.html"><img src="images/logo6.png" alt="" title=""></a></div>
-            </div>
+            </div> --}}
 
             <!--Nav Box-->
             <div class="nav-outer clearfix">
@@ -29,6 +29,7 @@
                             <li><a href="{{ route('about') }}">About</a></li>
                             <li><a href="{{ route('speakers') }}">Speakers</a></li>
                             <li><a href="{{ route('events') }}">Events</a></li>
+                            <li><a href="{{ route('gallery') }}">Gallery</a></li>
                             <li><a href="{{ route('contact') }}">Contact</a></li>
                         </ul>
                     </div>

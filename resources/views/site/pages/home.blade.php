@@ -5,85 +5,52 @@
 @section('content')
     <!-- Banner Section -->
     <section class="banner-section">
-
         <div class="banner-carousel owl-carousel owl-theme">
-
             <!-- Slide Item -->
-
-            <div class="slide-item" style="background-image: url(images/main-slider/background-img.png);">
-
+            <div class="slide-item" style="background-image: url(images/gallery/women.png);">
                 <div class="auto-container">
-
                     <div class="content-box">
-
                         <span class="title">The Source of the Nile</span>
-
-                        <h2 class="p-0 m-0"> Women in Agri-Business Summit & Expo</h2>
-
+                        <span class="title">Women in Agri-Business Summit & Expo</span>
+                        <h2 class="p-0 m-0">Coming Soon </h2><br>
                         <ul class="info-list">
-
                             <li><strong>Main Theme:</strong> New Pathways for Inclusive Transformation in Africa</li>
-
                         </ul>
-
                         <ul class="info-list">
-
                             <li><strong>Subtheme:</strong> Partnerships for Investment and Economic Growth in
                                 Communities
                             </li>
-
                         </ul>
-
                         <ul class="info-list">
-
                             <li><strong> Register here to attend in person or Virtually</strong></li>
-
                         </ul>
                         <div class="btn-box"><a href="register.html" class="theme-btn btn-style-two"><span
                                     class="btn-title">Register Now</span></a></div>
-
                     </div>
-
                 </div>
-
             </div>
 
-
             <!-- Slide Item -->
 
-            <div class="slide-item" style="background-image: url(images/gallery/expo1.png);">
-
+            <div class="slide-item" style="background-image: url(images/gallery/women.png);">
                 <div class="auto-container">
-
                     <div class="content-box">
-
                         <span class="title">The Source of the Nile</span>
-
-                        <h2> Women in Agri-Business Summit & Expo</h2>
-
+                        <span class="title">Women in Agri-Business Summit & Expo</span>
+                        <h2 class="p-0 m-0">Coming Soon </h2><br>
                         <ul class="info-list">
-
                             <li><strong>Main Theme:</strong> New Pathways for Inclusive Transformation in Africa</li>
-
                         </ul>
-
                         <ul class="info-list">
-
                             <li><strong>Subtheme:</strong> Partnerships for Investment and Economic Growth in
                                 Communities
                             </li>
                         </ul>
-
                         <ul class="info-list">
-
                             <li><strong> Register here to attend in person or Virtually</strong></li>
-
                         </ul>
-
-                        <!-- <div class="title">Register here to attend in person or Virtually</div> -->
-                        <!-- <br> -->
                         <div class="btn-box"><a href="register.html" class="theme-btn btn-style-two"><span
-                                    class="btn-title">Register Now</span></a></div>
+                            class="btn-title">Register Now</span></a></div>
 
                     </div>
 
@@ -206,127 +173,80 @@
 
 
     <!-- Features Section Two -->
-    <section class="features-section-two">
 
+    <section class="features-section">
         <div class="auto-container">
-
             <div class="anim-icons">
-
-                <span class="icon twist-line-1 wow zoomIn"></span>
-
-                <span class="icon twist-line-2 wow zoomIn" data-wow-delay="1s"></span>
-
-                <span class="icon twist-line-3 wow zoomIn" data-wow-delay="2s"></span>
-
+                <span class="icon icon-shape-3 wow fadeIn"></span>
+                <span class="icon icon-line-1 wow fadeIn"></span>
             </div>
+            <div class="row">
+                <!-- Feature Block -->
+                <div class="feature-block col-lg-4 col-md-6 col-sm-12 wow fadeInUp">
+                    <div class="inner-box">
+                        <div class="icon-box"><span class="icon flaticon-search"></span></div>
+                        <div class="link-box"><a class="theme-btn">Create</a></div>
+                        <br>
+                        <div class="text">Create opportunities for women in agri-business to join domestic, regional and global value chains</div>
+                    </div>
 
+                </div>
+                <!-- Feature Block -->
+
+                <div class="feature-block col-lg-4 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay="400ms">
+                    <div class="inner-box">
+                        <div class="icon-box"><span class="icon flaticon-diamond-1"></span></div>
+                        <div class="link-box"><a class="theme-btn">Connect</a></div>
+                        <br>
+                        <div class="text">Connect with financiers, industry leaders, and Policy Makers.</div>
+                    </div>
+
+                </div>
+
+                <!-- Feature Block -->
+                <div class="feature-block col-lg-4 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay="800ms">
+                    <div class="inner-box">
+                        <div class="icon-box"><span class="icon flaticon-success"></span></div>
+                        <div class="link-box"><a class="theme-btn">Pitch</a></div>
+                        <br><br>
+                        <div class="text">Pitch their Business ideas and services</div>
+                    </div>
+                </div>
+            </div>
 
             <div class="row">
-
-                <!-- Title Block -->
-
-                <div class="title-block col-lg-4 col-md-12 col-sm-12 wow fadeInUp">
-
-                    <div class="inner-box">
-
-                        <div class="sec-title">
-
-                            <span class="title">THE PURPOSE OF THE SUMMIT AND EXPO</span>
-
-                            <!-- <h2>THE EXPO </h2> -->
-
-                        </div>
-
-                    </div>
-
-                </div>
-
-
                 <!-- Feature Block -->
-
-                <div class="feature-block-two col-lg-4 col-md-6 col-sm-12 wow fadeInUp">
-
+                <div class="feature-block col-lg-4 col-md-6 col-sm-12 wow fadeInUp">
                     <div class="inner-box">
-
-                        <div class="icon-box"><span class="icon flaticon-rocket-ship"></span></div>
-
-                        <h4><a>Pitch</a></h4>
-
-                        <div class="text">Pitch their Business ideas and services.</div>
-
-                    </div>
-
-                </div>
-
-
-                <!-- Feature Block -->
-
-                <div class="feature-block-two col-lg-4 col-md-6 col-sm-12 wow fadeInUp">
-
-                    <div class="inner-box">
-
                         <div class="icon-box"><span class="icon flaticon-search"></span></div>
-
-                        <h4><a>Connect</a></h4>
-
-                        <div class="text">Connect with financiers, industry leaders, and Policy Makers.</div>
+                        <div class="link-box"><a class="theme-btn">Explore</a></div>
+                        <br>
+                        <div class="text">Explore innovative financing partnership with the private sector, industry experts and government agencies.</div>
                     </div>
 
                 </div>
-
-
                 <!-- Feature Block -->
 
-                <!-- <div class="feature-block-two col-lg-4 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay="400ms">
-
+                <div class="feature-block col-lg-4 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay="400ms">
                     <div class="inner-box">
-
                         <div class="icon-box"><span class="icon flaticon-diamond-1"></span></div>
-
-                        <h4><a href="https://expert-themes.com/support/ticket/7690">Pitch</a></h4>
-
-                        <div class="text">Pitch their Business ideas and services.</div>
-
-                    </div>
-
-                </div> -->
-
-
-                <!-- Feature Block -->
-
-                <!-- <div class="feature-block-two col-lg-4 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay="800ms">
-
-                    <div class="inner-box">
-
-                        <div class="icon-box"><span class="icon flaticon-success"></span></div>
-
-                        <h4><a href="https://expert-themes.com/support/ticket/7690">Connect</a></h4>
-
-                        <div class="text">Connect with financiers, industry leaders, and Policy Makers.</div>
-
-                    </div>
-
-                </div> -->
-
-
-                <!-- Feature Block -->
-
-                <div class="feature-block-two col-lg-4 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay="1200ms">
-
-                    <div class="inner-box">
-
-                        <div class="icon-box"><span class="icon flaticon-lecture"></span></div>
-
-                        <h4><a>Create</a></h4>
-
-                        <div class="text">Create and refine Partnerships for Business Growth</div>
-
+                        <div class="link-box"><a class="theme-btn">Commit</a></div>
+                        <br>
+                        <div class="text">Commit to implimenting policy and financing mechanisms for supporting women in agri-businesses, including capacity-strengthening programs.</div>
                     </div>
 
                 </div>
 
+                <!-- Feature Block -->
+                <div class="feature-block col-lg-4 col-md-6 col-sm-12 wow fadeInUp" data-wow-delay="800ms">
+                    <div class="inner-box">
+                        <div class="icon-box"><span class="icon flaticon-success"></span></div>
+                        <div class="link-box"><a class="theme-btn">Network</a></div>
+                        <br><br>
+                        <div class="text">Networking,Engaging Sessions,Inspiring Speakers, Exhibitions and more </div>
+                    </div>
+                </div>
             </div>
-
         </div>
 
     </section>
@@ -340,7 +260,6 @@
                 <span class="title"> Speakers</span>
                 <h2>Our Distinguished Guests - Tentative</h2>
             </div>
-
             <div class="row">
                 <!-- Speaker Block -->
                 <div class="speaker-block-one col-xl-3 col-lg-4 col-md-6 col-sm-12">
@@ -373,11 +292,11 @@
                 <div class="speaker-block-one col-xl-3 col-lg-4 col-md-6 col-sm-12">
                     <div class="inner-box">
                         <!-- <div class="image-box"> -->
-                        <figure class="image"><a><img src="images/resource/sima.png" alt=""></a></figure>
+                        <figure class="image"><a><img src="images/resource/maxime3.png" alt=""></a></figure>
                         <!-- </div> -->
                         <div class="info-box">
-                            <h4 class="name">Ms. Sima Bahous</h4>
-                            <span class="designation">Executive Director of UN Women</span>
+                            <h4 class="name">Dr.Maxime Houinato</h4>
+                            <span class="designation">Regional Director, UN Women East and <br> Southern Africa Regional Office</span>
                         </div>
                     </div>
                 </div>
@@ -481,92 +400,6 @@
         </div>
     </section>
     <!-- End Speakers Section -->
-
-
-    <section class="features-section-two">
-
-        <div class="auto-container">
-
-            <div class="anim-icons">
-
-                <span class="icon twist-line-1 wow zoomIn"></span>
-
-                <span class="icon twist-line-2 wow zoomIn" data-wow-delay="1s"></span>
-
-                <span class="icon twist-line-3 wow zoomIn" data-wow-delay="2s"></span>
-
-            </div>
-
-
-            <div class="row">
-
-                <div class="title-block col-lg-4 col-md-12 col-sm-12 wow fadeInUp">
-
-                    <div class="inner-box">
-
-                        <div class="sec-title">
-
-                            <span class="title">Government, Multi-lateral, and Private Sector
-                                Partners will:</span>
-
-                            <!-- <h2>Feature </h2> -->
-
-                        </div>
-
-                    </div>
-
-                </div>
-
-                <!-- Feature Block -->
-                <div class="feature-block-three col-lg-6 col-md-12 col-sm-12 wow fadeInUp">
-                    <div class="inner-box">
-                        <div class="icon-box"><span class="icon flaticon-lecture"></span></div>
-                        <h4><a>Create</a></h4>
-                        <div class="text">Create opportunities for women in agri-business to join domestic, regional and
-                            global value chains
-                        </div>
-                        <div class="link-box"><a class="theme-btn"><span class="fa fa-angle-right"></span></a></div>
-                    </div>
-                </div>
-
-                <!-- Feature Block -->
-                <div class="feature-block-three col-lg-6 col-md-12 col-sm-12 wow fadeInUp">
-                    <div class="inner-box">
-                        <div class="icon-box"><span class="icon flaticon-search"></span></div>
-                        <h4><a>Explore</a></h4>
-                        <div class="text">Explore innovative financing partnership with the private sector, industry
-                            experts and government agencies.
-                        </div>
-                        <div class="link-box"><a class="theme-btn"><span class="fa fa-angle-right"></span></a></div>
-                    </div>
-                </div>
-
-                <!-- Feature Block -->
-                <div class="feature-block-three col-lg-6 col-md-12 col-sm-12 wow fadeInUp" data-wow-delay="400ms">
-                    <div class="inner-box">
-                        <div class="icon-box"><span class="icon flaticon-diamond-1"></span></div>
-                        <h4><a>Commit</a></h4>
-                        <div class="text">Commit to implimenting policy and financing mechanisms for
-                            supporting women in agri-businesses, including
-                            capacity-strengthening programs.
-                        </div>
-                        <div class="link-box"><a class="theme-btn"><span class="fa fa-angle-right"></span></a></div>
-                    </div>
-                </div>
-
-                <!-- Feature Block -->
-                <!-- <div class="feature-block-three col-lg-6 col-md-12 col-sm-12 wow fadeInUp" data-wow-delay="800ms">
-                    <div class="inner-box">
-                        <div class="icon-box"><span class="icon flaticon-success"></span></div>
-                        <h4><a href="https://expert-themes.com/support/ticket/7690">Party</a></h4>
-                        <div class="text">Dolor sit amet consectetur elit sed do eiusmod tempor incd idunt.</div>
-                        <div class="link-box"><a href="https://expert-themes.com/support/ticket/7690" class="theme-btn"><span class="fa fa-angle-right"></span></a></div>
-                    </div>
-                </div> -->
-            </div>
-        </div>
-
-    </section>
 
     <!-- schedule Section -->
     <section class="schedule-section style-three">
@@ -1004,7 +837,7 @@
 
 
     <!-- Video Section -->
-    <section class="video-section" style="background-image: url(images/resource/expo1.png);">
+    <section class="video-section" style="background-image: url(images/gallery/women.png);">
 
         <div class="auto-container">
 
@@ -1015,7 +848,8 @@
                 <h2>Women in Agri-Business Summit & Expo !!</h2>
                 <br><br>
                 <div class="btn-box">
-                    <a href="contact.html" class="theme-btn btn-style-one"><span class="btn-title">Contact Us</span></a>
+                   <a class="play-now" data-fancybox="gallery" data-caption=""><i class="icon flaticon-play-button-3" aria-hidden="true"></i><span class="ripple"></span></a> 
+                    {{-- <a href="contact.html" class="theme-btn btn-style-one"><span class="btn-title">Contact Us</span></a> --}}
                 </div>
 
                 <!-- <a class="play-now" data-fancybox="gallery" data-caption=""><i class="icon flaticon-play-button-3" aria-hidden="true"></i><span class="ripple"></span></a> -->
@@ -1029,7 +863,7 @@
 
 
     <!-- Why Choose Us -->
-    <section class="why-choose-us">
+    {{-- <section class="why-choose-us">
 
         <div class="auto-container">
 
@@ -1042,11 +876,6 @@
                         <div class="sec-title">
 
                             <span class="title">JOIN THE EVENT</span>
-
-                            <!-- <h2>Join the event</h2> -->
-
-                            <!-- <div class="text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmtempor incididunt labore et dolore magna aliqu enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip</div> -->
-
                             <div class="text">
                                 Join us for an extraordinary event dedicated to fostering inclusive transformation in
                                 Africa. This summit serves as a crucial platform to showcase the remarkable women who
@@ -1064,8 +893,6 @@
                             <li>Inspiring Speakers</li>
 
                             <li>Exhibitions and Sideline Events</li>
-
-                            <!-- <li>Expert-created content and resources</li> -->
 
                         </ul>
 
@@ -1094,7 +921,7 @@
 
         </div>
 
-    </section>
+    </section> --}}
     <!-- End Why Choose Us -->
 
     <!-- Event Info Section -->
