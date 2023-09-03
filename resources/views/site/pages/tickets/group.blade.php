@@ -50,17 +50,26 @@
                         <div class="ticket-form">
                             <form method="POST" action="{{ route('pay') }}" id="paymentForm">
                                 @csrf
+                                <input type="hidden" value="group" name="ticket_type">
                                 <div class="form-group">
-                                    <input type="text" name="name" placeholder="Your Full Name" required="">
+                                    <label>
+                                        <input type="text" name="customer_name" placeholder="Your Full Name" required>
+                                    </label>
                                 </div>
                                 <div class="form-group">
-                                    <input type="email" name="email" placeholder="Your Email" required="">
+                                    <label>
+                                        <input type="email" name="customer_email" placeholder="Your Email" required>
+                                    </label>
                                 </div>
                                 <div class="form-group">
-                                    <input type="phone" name="email" placeholder="Phone" required="">
+                                    <label>
+                                        <input type="tel" name="phone_number" placeholder="Phone" required>
+                                    </label>
                                 </div>
                                 <div class="form-group">
-                                    <input type="checkbox" name="terms" id="term" required="">
+                                    <label>
+                                        <input type="checkbox" name="terms" value="1" required>
+                                    </label>
                                     <label for="term">I accept the <span>Terms &amp; Conditions</span></label>
                                 </div>
                                 <div class="form-group">

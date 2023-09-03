@@ -3,6 +3,7 @@
 use App\Http\Controllers\FlutterwaveController;
 use App\Http\Controllers\ProfileController;
 use App\Http\Controllers\TicketController;
+use App\Models\Payment;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -45,8 +46,33 @@ Route::get('/register', function () {
 })->name('register');
 
 Route::get('/dashboard', function () {
-    return view('dashboard');
+    $payments = Payment::query()
+        ->where('status', Payment::STATUS_SUCCESSFUL)
+        ->orderBy('id', 'DESC')
+        ->get();
+
+    $total_amount = Payment::query()
+        ->where('status', Payment::STATUS_SUCCESSFUL)
+        ->sum('amount');
+
+    $number_of_successful_payments = Payment::query()
+        ->where('status', Payment::STATUS_SUCCESSFUL)
+        ->count();
+
+    $number_of_failed_payments = Payment::query()
+        ->where('status', Payment::STATUS_FAILED)
+        ->count();
+
+    return view('dashboard', compact(['payments', 'total_amount', 'number_of_successful_payments', 'number_of_failed_payments']));
 })->middleware(['auth', 'verified'])->name('dashboard');
+
+Route::get('/transactions', function () {
+    $payments = Payment::query()
+        ->orderBy('id', 'DESC')
+        ->paginate(20);
+
+    return view('transactions', compact('payments'));
+})->name('transactions');
 
 Route::middleware('auth')->group(function () {
     Route::get('/profile', [ProfileController::class, 'edit'])->name('profile.edit');
