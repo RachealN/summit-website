@@ -24,7 +24,7 @@
                         <ul class="info-list">
                             <li><strong> Register here to attend in person or Virtually</strong></li>
                         </ul>
-                        <div class="btn-box"><a href="register.html" class="theme-btn btn-style-two"><span
+                        <div class="btn-box"><a href="{{ route('register') }}" class="theme-btn btn-style-two"><span
                                     class="btn-title">Register Now</span></a></div>
                     </div>
                 </div>
@@ -262,23 +262,23 @@
             </div>
             <div class="row">
                 <!-- Speaker Block -->
-                <div class="speaker-block-one col-xl-3 col-lg-4 col-md-6 col-sm-12">
+                <div class="speaker-block-one col-xl-4 col-lg-4 col-md-6 col-sm-12">
                     <div class="inner-box">
                         <!-- <div class="image-box"> -->
-                        <figure class="image"><a><img src="images/resource/museveni.png" alt=""></a></figure>
+                        <figure class="image"><a><img src="images/resource/museveni.png" style="height: 245px" alt=""></a></figure>
                         <!-- </div> -->
                         <div class="info-box">
-                            <strong><h4 class="name">His Excellency Yoweri Kaguta Museveni</h4></strong>
+                            <strong><h4 class="name">His Excellency Yoweri Museveni</h4></strong>
                             <span class="designation">President of Uganda</span>
                         </div>
                     </div>
                 </div>
 
                 <!-- Speaker Block -->
-                <div class="speaker-block-one col-xl-3 col-lg-4 col-md-6 col-sm-12">
+                <div class="speaker-block-one col-xl-4 col-lg-4 col-md-6 col-sm-12">
                     <div class="inner-box">
                         <!-- <div class="image-box"> -->
-                        <figure class="image"><a><img src="images/resource/amina.png" alt=""></a></figure>
+                        <figure class="image"><a><img src="images/resource/amina.png" style="height: 245px" alt=""></a></figure>
                         <!-- </div> -->
                         <div class="info-box">
                             <h4 class="name">Ms. Amina J. Mohammed</h4>
@@ -289,10 +289,10 @@
 
                 <br>
                 <!-- Speaker Block -->
-                <div class="speaker-block-one col-xl-3 col-lg-4 col-md-6 col-sm-12">
+                <div class="speaker-block-one col-xl-4 col-lg-4 col-md-6 col-sm-12">
                     <div class="inner-box">
                         <!-- <div class="image-box"> -->
-                        <figure class="image"><a><img src="images/resource/maxime3.png" alt=""></a></figure>
+                        <figure class="image"><a><img src="images/resource/maxime3.png" style="height: 245px" alt=""></a></figure>
                         <!-- </div> -->
                         <div class="info-box">
                             <h4 class="name">Dr.Maxime Houinato</h4>
@@ -848,7 +848,7 @@
                 <h2>Women in Agri-Business Summit & Expo !!</h2>
                 <br><br>
                 <div class="btn-box">
-                   <a class="play-now" data-fancybox="gallery" data-caption=""><i class="icon flaticon-play-button-3" aria-hidden="true"></i><span class="ripple"></span></a> 
+                   <a class="play-now" data-fancybox="gallery" data-caption=""><i class="icon flaticon-play-button-3" aria-hidden="true"></i><span class="ripple"></span></a>
                     {{-- <a href="contact.html" class="theme-btn btn-style-one"><span class="btn-title">Contact Us</span></a> --}}
                 </div>
 
