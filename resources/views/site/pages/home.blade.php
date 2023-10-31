@@ -108,7 +108,7 @@
 
                             <span class="title">ABOUT EVENT</span>
 
-                            <h2> Women in Agri-Business Summit & Expo!!</h2>
+                            <h2>Women in Agribusiness Investment Summit</h2>
 
                             <div class="text">
                                 We believe in the power of partnerships, identifying bottlenecks, and showcasing best
