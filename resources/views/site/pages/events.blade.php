@@ -4,7 +4,7 @@
     <!--Page Title-->
     <section class="page-title" style="background-image:url(images/background/9.jpg);">
         <div class="auto-container">
-            <h1>Events</h1>
+            <h1>Pre-Summit Events</h1>
         </div>
     </section>
 
@@ -30,7 +30,7 @@
 
                                 <div class="image-box">
 
-                                    <figure class="image"><a href="blog-single.html"><img src="images/resource/blog-1.jpg" alt=""></a></figure>
+                                    <figure class="image"><a href="blog-single.html"><img src="images/gallery/unw.jpg" alt=""></a></figure>
 
                                 </div>
 
@@ -44,11 +44,32 @@
 
                                     </ul>     --}}
 
-                                    <h4><a href="blog-single.html">Chinese Women Investors meeting</a></h4>
+                                    <h4><a href="blog-single.html">Hunan Women's Federation Visit </a></h4>
 
-                                    <div class="text">Lorem ipsum dolor sit amet, consectetur do adipisicing sed do eiusmtempor incididunt labore dolore magna aliqu enim ad minim veniam quis nostrud exercitation.</div>
+                                    <div class="text">
+                                        This visit was an important step in fostering collaboration between China and Africa, with a focus on women's empowerment and agribusiness development, ultimately strengthening the economic ties between the two regions.
+                                    </div>
 
-                                    <div class="btn-box"><a href="blog-single.html" class="read-more">Read More</a></div>
+                                    <div class="text">
+                                        <p><strong>Purpose</strong></p>
+                                        The visit by the Hunan Women's Federation aims to explore the outcomes of the annual China-Africa Trade Expo, with a special focus on women's recovery from the impacts of COVID-19. They are interested in establishing a Women Africa China Entrepreneurs hub/network/center to facilitate exchange and support for women entrepreneurs from both China and Africa.
+                                    </div>
+
+                                    <div class="text">
+                                        <p><strong> Between China and Uganda:</strong></p>
+                                        China and Uganda have a strong and growing partnership, with significant cooperation across various sectors, including industrialization, medical cooperation, poverty reduction, and trade and investment promotion. China's investment in Uganda's industrial parks has contributed to economic growth and job creation. The two nations have also supported each other during the COVID-19 pandemic.
+                                    </div>
+
+                                    <div class="text">
+                                        The visiting Hunan delegation includes 6 officials led by the President of the Women Federation, representatives from the Chinese Communist Party (CCP), and Chinese women entrepreneurs.
+
+                                        Ugandan participants include key figures from various sectors, such as the Chair of the Presidential CEOs of Forum, board members of Pepsi Uganda, officials from the Uganda Investment Authority, leaders from Delight Industries, and experts from the Ministry of Gender, Uganda Chamber of Commerce, Uganda Women Entrepreneurs Association, Uganda Coffee Development Authority, and Makerere University Uganda.
+                                        
+                                        This pre-summit event sets the stage for a dynamic exchange of ideas, cooperation, and investment opportunities between China and Uganda, particularly focusing on women entrepreneurs and agribusiness development.
+                                        
+                                    </div>
+
+                                    {{-- <div class="btn-box"><a href="blog-single.html" class="read-more">Read More</a></div> --}}
 
                                 </div>
 
@@ -80,11 +101,61 @@
 
                                     </ul>     --}}
 
-                                    <h4><a href="blog-single.html">Women in agribusiness expo in Gulu City.</a></h4>
+                                    <h4><a href="blog-single.html">Profiling Women in agribusiness countrywide</a></h4>
 
-                                    <div class="text">Lorem ipsum dolor sit amet, consectetur do adipisicing sed do eiusmtempor incididunt labore dolore magna aliqu enim ad minim veniam quis nostrud exercitation.</div>
+                                    <div class="text">
+                                        In a groundbreaking initiative, UN Women, in collaboration with Takc and Step-up, embarked 
+                                        on a transformative journey to empower and prepare 16 exceptional women in agribusiness for investment pitches 
+                                        at a high-profile Investment Summit. The endeavor, carried out with unwavering dedication and meticulous planning, 
+                                        focused on women entrepreneurs from various regions of Uganda, including the Western, Eastern, Northern, and Central regions. 
+                                        This endeavor sought to highlight their unique stories, challenges, 
+                                        and aspirations while providing them with the support they need to advance their businesses.
+                                    </div>
 
-                                    <div class="btn-box"><a href="blog-single.html" class="read-more">Read More</a></div>
+                                    <div class="text">
+                                        UN Women, Takc, and Step-up recognized the significant potential of women in 
+                                        the agribusiness sector and were committed to bridging the gender gap in this industry. 
+                                        They understood that women often face unique challenges and barriers that hinder their business growth, and by equipping 
+                                        them with the skills and knowledge to make compelling investment pitches, these organizations aimed to make a substantial difference.
+                                    </div>
+
+                                    <div class="text">
+                                        <p><strong>Voices, Shared Dreams</strong></p>
+                                        The 16 women selected for this transformative program represented the rich diversity of Uganda's agribusiness landscape. Four women were carefully chosen from each region, ensuring that a wide range of agricultural sectors and experiences were included.
+
+                                    </div>
+
+                                    <div class="text">
+                                        In the Western Region of Uganda, these women were involved in enterprises ranging from dairy farming to crop cultivation. They candidly shared their stories, recounting the successes they had achieved and the obstacles they faced. Their ventures ranged from small-scale family farms to larger commercial enterprises, and they expressed the need for access to better markets, 
+                                        improved infrastructure, and additional training to enhance their agricultural practices.
+                                    </div>
+
+                                    <div class="text">
+                                        The four entrepreneurs from the Eastern Region were actively involved in various aspects of the agribusiness sector, including poultry farming, fisheries, horticulture and beekeeping. Their discussions revealed a shared desire for increased access to financial resources, better technology, and gender-specific training to further their businesses.
+                                    </div>
+
+                                    <div class="text">
+                                        In the Northern Region, these women were engaged in livestock farming, beekeeping, and grain production. Despite facing challenges related to climate change and infrastructure limitations, they demonstrated remarkable resilience and innovative spirit. They articulated their need for support in the form of agribusiness training, networking opportunities, and access to markets.
+
+                                    </div>
+
+                                    <div class="text">
+                                        The four women from the Central Region were actively involved in urban agriculture, including vegetable production, poultry farming, beekeeping and palm oil platation. They highlighted the challenges of urban farming, including limited space and access to resources. Their vision included the creation of more urban farming hubs and enhanced business skills training.
+
+                                    </div>
+
+                                    <div class="text">
+                                        <p><strong>Preparing Women for Investment Pitches</strong></p>
+                                        After profiling these remarkable women and understanding their unique needs and aspirations, UN Women, Takc, and Step-up embarked on a tailored program to prepare them for investment pitches at the upcoming summit. This program included training in financial literacy, business planning, effective communication, and networking. The women received mentorship and guidance from experienced business leaders and were equipped with the skills necessary to attract investors and partners.
+                                    </div>
+                                    <div class="text">
+                                        <p><strong> A Bright Future for Women in Agribusiness</strong></p>
+                                        The journey to empower and prepare these 16 women for investment pitches at the Investment Summit was a resounding success. By amplifying their voices and providing them with the tools they need to succeed, UN Women, Takc, and Step-up are championing the cause of women in agribusiness, creating a more inclusive and equitable future for Uganda's agricultural sector.
+
+
+                                    </div>
+
+                                    {{-- <div class="btn-box"><a href="blog-single.html" class="read-more">Read More</a></div> --}}
 
                                 </div>
 
@@ -96,7 +167,7 @@
 
                         <!-- News Block Three -->
 
-                        <div class="news-block wow fadeInRight">
+                        {{-- <div class="news-block wow fadeInRight">
 
                             <div class="inner-box">
 
@@ -107,15 +178,6 @@
                                 </div>
 
                                 <div class="lower-content">
-
-                                    {{-- <ul class="post-info">
-
-                                        <li><span class="far fa-user"></span> Admin</li>
-
-                                        <li><span class="far fa-comments"></span> Comment 03</li>
-
-                                    </ul>     --}}
-
                                     <h4><a href="blog-single.html">Women in agribusiness expo in Jinja City.</a></h4>
 
                                     <div class="text">Lorem ipsum dolor sit amet, consectetur do adipisicing sed do eiusmtempor incididunt labore dolore magna aliqu enim ad minim veniam quis nostrud exercitation.</div>
@@ -126,44 +188,13 @@
 
                             </div>
 
-                        </div>
+                        </div> --}}
 
 
 
                         <!-- News Block Three -->
 
-                        <div class="news-block wow fadeInRight">
-
-                            <div class="inner-box">
-
-                                <div class="image-box">
-
-                                    <figure class="image"><a href="blog-single.html"><img src="images/resource/blog-4.jpg" alt=""></a></figure>
-
-                                </div>
-
-                                <div class="lower-content">
-
-                                    {{-- <ul class="post-info">
-
-                                        <li><span class="far fa-user"></span> Admin</li>
-
-                                        <li><span class="far fa-comments"></span> Comment 03</li>
-
-                                    </ul>     --}}
-
-                                    <h4><a href="blog-single.html">Women in Agribusiness Investment Summit</a></h4>
-
-                                    <div class="text">Lorem ipsum dolor sit amet, consectetur do adipisicing sed do eiusmtempor incididunt labore dolore magna aliqu enim ad minim veniam quis nostrud exercitation.</div>
-
-                                    <div class="btn-box"><a href="blog-single.html" class="read-more">Read More</a></div>
-
-                                </div>
-
-                            </div>
-
-                        </div>
-
+                        {{-- 
 
 
                         <!--Styled Pagination-->

@@ -7,7 +7,7 @@
         <div class="auto-container clearfix">
 
             <div class="logo-box">
-                <div class="logo"><a href="index.html"><img src="images/logo.png" alt="" title=""></a></div>
+                {{-- <div class="logo"><a href="index.html"><img src="images/logo.png" alt="" title=""></a></div> --}}
             </div>
 
             <!--Nav Box-->

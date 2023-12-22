@@ -55,9 +55,14 @@
 
                             <h2>Women in Agri-Business Summit & Expo!!</h2>
 
+                            <div class="text">
+                                The Women in Agribusiness Expo and Investment Summit is a landmark event hosted by UN Women in partnership with the Government of Uganda, the Ministry of Agriculture, Animal Industry and Fisheries, the Ministry of Gender, Labour, and Social Development, Private Sector Foundation Uganda, Uganda Farmers' Federation, and Uganda Women Entrepreneurs Association. We are dedicated to advancing the status of women farmers in Uganda and across Africa by creating opportunities in agribusiness.
+
+                            </div>
+
                             <div class="text">Join us for an extraordinary event dedicated to fostering inclusive transformation in Africa. This summit serves as a crucial platform to showcase the remarkable women who lead impactful businesses and aims to facilitate partnerships with government decision-makers, industry leaders, and representatives of the international community. Together, we will pave the way for new pathways towards inclusive development across the continent.</div>
 
-                            <div class="text">We believe in the power of partnerships, identifying bottlenecks, and showcasing best practices by women entrepreneurs. By bringing together women leaders in strategic economic areas such as food systems and agribusiness, energy security, health systems, and financial services, we provide a space for inter-generational learning and collaboration.</div>
+                           
                         </div>
                         <span class="title">ACTIVITIES:-</span>
                         <br><br>
@@ -347,15 +352,7 @@
     <!-- Call to action -->
 
     <section class="video-section" style="background-image: url(images/gallery/women.png);">
-        {{-- <div class="auto-container">
-            <div class="content-box">
-                <div class="text">THE SOURCE OF THE NILE</div>
-                <h2>Women in Agri-Business Summit & Expo !!</h2>
-                <div class="btn-box">
-                    <a class="play-now" data-fancybox="gallery" data-caption=""><i class="icon flaticon-play-button-3" aria-hidden="true"></i><span class="ripple"></span></a> 
-                </div>
-            </div>
-        </div> --}}
+      
         <div class="auto-container">
 
             <div class="content-box">
@@ -366,10 +363,7 @@
                 <br><br>
                 <div class="btn-box">
                    <a class="play-now" data-fancybox="gallery" data-caption=""><i class="icon flaticon-play-button-3" aria-hidden="true"></i><span class="ripple"></span></a> 
-                    {{-- <a href="contact.html" class="theme-btn btn-style-one"><span class="btn-title">Contact Us</span></a> --}}
                 </div>
-
-                <!-- <a class="play-now" data-fancybox="gallery" data-caption=""><i class="icon flaticon-play-button-3" aria-hidden="true"></i><span class="ripple"></span></a> -->
 
             </div>
 
@@ -396,12 +390,11 @@
 
                         <div class="sec-title style-two">
 
-                            <span class="title">Reach us</span>
+                            <span class="title">Event Details</span>
 
-                            <h2>Direction for the <br>Venue</h2>
+                            {{-- <h2>Direction for the <br>Venue</h2> --}}
 
                         </div>
-
 
 
                         <div class="event-info-tabs tabs-box">
@@ -410,14 +403,13 @@
 
                             <ul class="tab-buttons clearfix">
 
-                                <li class="tab-btn active-btn" data-tab="#tab1">Time</li>
+                                <li class="tab-btn active-btn" data-tab="#tab1">Venue</li>
 
-                                <li class="tab-btn" data-tab="#tab2">Venue</li>
+                                {{-- <li class="tab-btn" data-tab="#tab2">Venue</li> --}}
 
                                 <!-- <li class="tab-btn" data-tab="#tab3">How to</li> -->
 
                             </ul>
-
 
 
                             <div class="tabs-content">
@@ -426,23 +418,35 @@
 
                                 <div class="tab active-tab" id="tab1">
 
-                                    <h4><span class="icon far fa-calendar"></span> October 23, 2023</h4>
+                                    <h4><span class="icon fa fa-map-marker-alt"></span> Gulu City - 21st and 22nd Nov 2023 </h4><br>
 
-                                    <div class="text">9.00 AM - 04.00 PM</div>
+                                    <h4><span class="icon fa fa-map-marker-alt"></span> Jinja City - 7th and 8th Dec 2023</h4><br>
 
-                                    <ul class="info-list">
+                                    <h4><span class="icon fa fa-map-marker-alt"></span>Serena Kigo Hotel in Kampala - 14th January 2024</h4><br>
 
-                                        <li><span class="icon icon_profile"></span> Support</li>
+                                    {{-- <div class="text">
+                                        Speke Resort and Conference Centre
+                                        Wavamunno Road,
+                                        <br>
+                                        P. O. Box 446, Kampala
+                                        Uganda
+                                        <br>
+                                        Call:
+                                        <br>+256 (0) 752 711 714
+                                        <br>+256 (0) 414 227 111
+                                        <br>+256 (0) 417 716 000
+                                    </div> --}}
 
-                                        <li><span class="icon icon_phone"></span> <a >+256 (0)77777777</a></li>
-
-                                        <li><span class="icon icon_mail"></span> <a href="mailto:Secretariat@afriwgsdgsummit.org">Secretariat@afriwgsdgsummit.org</a></li>
-                                    </ul>
                                 </div>
 
+
                                 <!--Tab-->
-                                <div class="tab" id="tab2">
-                                    <h4><span class="icon fa fa-map-marker-alt"></span>Commonwealth Resort Hotel Munyonyo, Kampala</h4>
+
+                                {{-- <div class="tab" id="tab2">
+
+                                    <h4><span class="icon fa fa-map-marker-alt"></span>Commonwealth Resort Hotel
+                                        Munyonyo, Kampala</h4>
+
                                     <div class="text">
                                         Speke Resort and Conference Centre
                                         Wavamunno Road,
@@ -455,18 +459,40 @@
                                         <br>+256 (0) 414 227 111
                                         <br>+256 (0) 417 716 000
                                     </div>
-                                </div>
+                                </div> --}}
+
+
+                                <!--Tab-->
+
+                                <!-- <div class="tab" id="tab3">
+
+                                    <h4><span class="icon fa fa-directions"></span> How to get there</h4>
+
+                                    <div class="text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt labore et dolore magna aliqua. Aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore.</div>
+
+                                </div> -->
+
                             </div>
+
                         </div>
+
                     </div>
+
                 </div>
 
+
                 <!-- Image Column -->
+
                 <div class="image-column col-lg-6 col-md-12 col-sm-12">
+
                     <figure class="image"><img src="images/icons/map-4.png" alt=""></figure>
+
                 </div>
+
             </div>
+
         </div>
+
     </section>
     <!--End Event Info Section -->
 @endsection

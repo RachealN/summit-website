@@ -7,7 +7,7 @@
     <section class="banner-section">
         <div class="banner-carousel owl-carousel owl-theme">
             <!-- Slide Item -->
-            <div class="slide-item" style="background-image: url(images/gallery/women.png);">
+            <div class="slide-item" style="background-image: url(images/gallery/newpic.jpg);">
                 <div class="auto-container">
                     <div class="content-box">
                         <span class="title">The Source of the Nile</span>
@@ -32,20 +32,27 @@
 
             <!-- Slide Item -->
 
-            <div class="slide-item" style="background-image: url(images/gallery/women.png);">
+            <div class="slide-item" style="background-image: url(images/gallery/newpic.jpg);">
                 <div class="auto-container">
                     <div class="content-box">
                         <span class="title">The Source of the Nile</span>
                         <span class="title">Women in Agri-Business Summit & Expo</span>
-                        <h2 class="p-0 m-0">Coming Soon </h2><br>
+                        {{-- <h2 class="p-0 m-0">Event Date and Locations </h2><br> --}}
                         <ul class="info-list">
-                            <li><strong>Main Theme:</strong> New Pathways for Inclusive Transformation in Africa</li>
+                            <li><strong> Event Details</strong></li>
                         </ul>
                         <ul class="info-list">
-                            <li><strong>Subtheme:</strong> Partnerships for Investment and Economic Growth in
-                                Communities
-                            </li>
+                            <li><strong>First Expo:</strong> 21st and 22nd November 2023 in Gulu City</li>
                         </ul>
+                        
+                        <ul class="info-list">
+                            <li><strong>Second Expo:</strong> 7th and 8th December 2023 in Jinja City</li>
+                        </ul>
+
+                        <ul class="info-list">
+                            <li><strong>Investment Summit:</strong>14th January 2024 at Serena Kigo Hotel in Kampala</li>
+                        </ul>
+
                         <ul class="info-list">
                             <li><strong> Register here to attend in person or Virtually</strong></li>
                         </ul>
@@ -106,21 +113,26 @@
 
                         <div class="sec-title">
 
-                            <span class="title">ABOUT EVENT</span>
-
-                            <h2>Women in Agribusiness Investment Summit</h2>
+                            <h2>Our Focus</h2>
+                            <br><br>
+                            <span class="title">Why Women in Agribusiness</span>
 
                             <div class="text">
-                                We believe in the power of partnerships, identifying bottlenecks, and showcasing best
-                                practices by women entrepreneurs. By bringing together women leaders in strategic
-                                economic areas such as food systems and agribusiness, energy security, health systems,
-                                and financial services, we provide a space for inter-generational learning and
-                                collaboration.
+                                Agribusiness is a dynamic field that engages women from various backgrounds, including those in politics, the private sector, migrants, refugees, survivors of gender-based violence, young entrepreneurs, and those not in formal employment. Women play a pivotal role in food and income security at the household level, and their participation in agribusiness is crucial for climate resilience and economic growth.
+                            </div>
+
+                            <br>
+                            
+                            <span class="title">The Summit's Mission</span>
+
+                            <div class="text">
+                                Our Women in Agribusiness Summit and Expo aims to empower women in agriculture by providing them with the knowledge, financing, and technologies to become active participants in agro-processing, organic food exports, and more. Through networking, partnerships, and mentorship, we're accelerating women's transition from subsistence farming to commercial agriculture.
+
                             </div>
 
                         </div>
 
-                        <ul class="list-style-one">
+                        {{-- <ul class="list-style-one">
 
                             <li>Opening remarks and keynote speeches.</li>
 
@@ -140,9 +152,8 @@
 
                             <li>Roundtable on agri-tech and inclusive digital economies.</li>
                             <li>Pitching and Deal Rooms.</li>
-                            <!-- <li>Pitching and Deal Rooms.</li> -->
 
-                        </ul>
+                        </ul> --}}
 
                         <div class="btn-box"><a href="register.html" class="theme-btn btn-style-three"><span
                                     class="btn-title">Register Now</span></a></div>
@@ -176,6 +187,7 @@
 
     <section class="features-section">
         <div class="auto-container">
+            <h2>Benefits for women in agribusiness</h2><br>
             <div class="anim-icons">
                 <span class="icon icon-shape-3 wow fadeIn"></span>
                 <span class="icon icon-line-1 wow fadeIn"></span>
@@ -257,8 +269,8 @@
     <section class="speakers-section-three">
         <div class="auto-container">
             <div class="sec-title text-center">
-                <span class="title"> Speakers</span>
-                <h2>Our Distinguished Guests - Tentative</h2>
+                <h2>Speakers</h2><br><br>
+                <span class="title">Our Distinguished Guests - Tentative</span>
             </div>
             <div class="row">
                 <!-- Speaker Block -->
@@ -292,7 +304,7 @@
                 <div class="speaker-block-one col-xl-4 col-lg-4 col-md-6 col-sm-12">
                     <div class="inner-box">
                         <!-- <div class="image-box"> -->
-                        <figure class="image"><a><img src="images/resource/maxime3.png" style="height: 245px" alt=""></a></figure>
+                        <figure class="image"><a><img src="images/resource/amina.png" style="height: 245px" alt=""></a></figure>
                         <!-- </div> -->
                         <div class="info-box">
                             <h4 class="name">Dr.Maxime Houinato</h4>
@@ -301,108 +313,14 @@
                     </div>
                 </div>
 
-                <!-- Speaker Block -->
-                <!-- <div class="speaker-block-three col-xl-3 col-lg-4 col-md-6 col-sm-12 wow fadeInUp">
-                    <div class="inner-box">
-                            <figure class="image"><a href="speakers-detail.html"><img src="images/resource/sima.png" alt=""></a></figure>
-                        <div class="info-box">
-                            <h4 class="name"><a href="speakers-detail.html">Guest Speaker</a></h4>
-                            <span class="designation">Event Manager</span>
-                        </div>
-
-                    </div>
-                </div> -->
-
-                <!-- Speaker Block -->
-                <!-- <div class="speaker-block-three col-xl-3 col-lg-4 col-md-6 col-sm-12 wow fadeInUp">
-                    <div class="inner-box">
-                        <div class="image-box">
-                            <figure class="image"><a href="speakers-detail.html"><img src="images/resource/speaker-5.jpg" alt=""></a></figure>
-                        </div>
-                        <div class="info-box">
-                            <h4 class="name"><a href="speakers-detail.html">Kenyetta Lesley</a></h4>
-                            <span class="designation">Event Manager</span>
-                        </div>
-                        <div class="social-box">
-                            <ul class="social-links social-icon-colored">
-                                <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                                <li><a href="#"><i class="fab fa-pinterest"></i></a></li>
-                                <li><a href="#"><i class="fab fa-dribbble"></i></a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div> -->
-
-                <!-- Speaker Block -->
-                <!-- <div class="speaker-block-three col-xl-3 col-lg-4 col-md-6 col-sm-12 wow fadeInUp">
-                    <div class="inner-box">
-                        <div class="image-box">
-                            <figure class="image"><a href="speakers-detail.html"><img src="images/resource/speaker-6.jpg" alt=""></a></figure>
-                        </div>
-                        <div class="info-box">
-                            <h4 class="name"><a href="speakers-detail.html">Shelly Verghese</a></h4>
-                            <span class="designation">Event Manager</span>
-                        </div>
-                        <div class="social-box">
-                            <ul class="social-links social-icon-colored">
-                                <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                                <li><a href="#"><i class="fab fa-pinterest"></i></a></li>
-                                <li><a href="#"><i class="fab fa-dribbble"></i></a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div> -->
-
-                <!-- Speaker Block -->
-                <!-- <div class="speaker-block-three col-xl-3 col-lg-4 col-md-6 col-sm-12 wow fadeInUp">
-                    <div class="inner-box">
-                        <div class="image-box">
-                            <figure class="image"><a href="speakers-detail.html"><img src="images/resource/speaker-7.jpg" alt=""></a></figure>
-                        </div>
-                        <div class="info-box">
-                            <h4 class="name"><a href="speakers-detail.html">Kenyetta Lesley</a></h4>
-                            <span class="designation">Event Manager</span>
-                        </div>
-                        <div class="social-box">
-                            <ul class="social-links social-icon-colored">
-                                <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                                <li><a href="#"><i class="fab fa-pinterest"></i></a></li>
-                                <li><a href="#"><i class="fab fa-dribbble"></i></a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div> -->
-
-                <!-- Speaker Block -->
-                <!-- <div class="speaker-block-three col-xl-3 col-lg-4 col-md-6 col-sm-12 wow fadeInUp">
-                    <div class="inner-box">
-                        <div class="image-box">
-                            <figure class="image"><a href="speakers-detail.html"><img src="images/resource/speaker-8.jpg" alt=""></a></figure>
-                        </div>
-                        <div class="info-box">
-                            <h4 class="name"><a href="speakers-detail.html">Shelly Verghese</a></h4>
-                            <span class="designation">Event Manager</span>
-                        </div>
-                        <div class="social-box">
-                            <ul class="social-links social-icon-colored">
-                                <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                                <li><a href="#"><i class="fab fa-pinterest"></i></a></li>
-                                <li><a href="#"><i class="fab fa-dribbble"></i></a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div> -->
+          
             </div>
         </div>
     </section>
     <!-- End Speakers Section -->
 
     <!-- schedule Section -->
-    <section class="schedule-section style-three">
+    {{-- <section class="schedule-section style-three">
         <div class="auto-container">
             <div class="sec-title text-center">
                 <span class="title">About Conference</span>
@@ -411,8 +329,6 @@
 
             <div class="schedule-tabs tabs-box">
                 <div class="btns-box">
-
-                    <!--Tabs Box-->
 
                     <ul class="tab-buttons clearfix">
 
@@ -437,93 +353,48 @@
 
                         </li>
 
-
-                        <!-- <li class="tab-btn" data-tab="#tab-3">
-
-                            <span class="day">Day 03</span>
-
-                            <span class="date">03</span>
-
-                            <span class="month">Jan</span> 2020
-
-                        </li>
-
-
-
-                        <li class="tab-btn" data-tab="#tab-4">
-
-                            <span class="day">Day 04</span>
-
-                            <span class="date">04</span>
-
-                            <span class="month">Jan</span> 2020
-
-                        </li> -->
-
                     </ul>
 
                 </div>
 
 
                 <div class="tabs-content">
-
-                    <!--Tab-->
                     <div class="tab active-tab" id="tab-1">
                         <div class="schedule-timeline row">
-                            <!-- schedule Block -->
                             <div class="schedule-block col-lg-6 col-md-12 col-sm-12">
                                 <div class="inner-box">
                                     <div class="inner">
                                         <div class="date">9.00 AM - 10.00 AM</div>
-                                        <!-- <div class="speaker-info">
-                                            <figure class="thumb"><img src="images/resource/thumb-1.jpg" alt=""></figure>
-                                            <h5 class="name">Ashli Scroggy</h5>
-                                            <span class="designation">Founder & CEO</span>
-                                        </div> -->
+
                                         <h4><a>Opening remarks and keynote speeches.</a></h4>
                                         <div class="text">Immerse yourself in insightful sessions where we will discuss
                                             entrepreneurship, strategic sector investment, and showcase initiatives that
                                             have the potential to scale up and promote mentorship across Africa.
                                         </div>
-                                        <!-- <div class="btn-box">
-                                            <a href="event-detail.html" class="theme-btn">Read More</a>
-                                        </div> -->
+
                                     </div>
                                 </div>
                             </div>
 
-                            <!-- schedule Block -->
                             <div class="schedule-block col-lg-6 col-md-12 col-sm-12">
                                 <div class="inner-box">
                                     <div class="inner">
                                         <div class="date">10.00 AM - 11.00 AM</div>
-                                        <!-- <div class="speaker-info">
-                                            <figure class="thumb"><img src="images/resource/thumb-2.jpg" alt=""></figure>
-                                            <h5 class="name">Ashli Scroggy</h5>
-                                            <span class="designation">Founder & CEO</span>
-                                        </div> -->
                                         <h4><a>Successful Women in Agri-business value chains.</a></h4>
                                         <div class="text">Learn from renowned leaders, visionaries, and trailblazers who
                                             have made a significant impact in their respective fields. Gain invaluable
                                             insights and practical knowledge from their experiences.
                                         </div>
-                                        <!-- <div class="btn-box">
-                                            <a href="event-detail.html" class="theme-btn">Read More</a>
-                                        </div> -->
+
                                     </div>
                                 </div>
                             </div>
 
-                            <!-- schedule Block -->
                             <div class="schedule-block col-lg-6 col-md-12 col-sm-12">
                                 <div class="inner-box">
                                     <div class="inner">
                                         <div class="date">11.00 AM - 12.00 AM</div>
-                                        <!-- <div class="speaker-info">
-                                            <figure class="thumb"><img src="images/resource/thumb-1.jpg" alt=""></figure>
-                                            <h5 class="name">Ashli Scroggy</h5>
-                                            <span class="designation">Founder & CEO</span>
-                                        </div> -->
+
                                         <h4><a>High-level panel discussion on un-tapped financing opportunities.</a>
                                         </h4>
                                         <div class="text">Explore the vibrant exhibition area featuring women-led
@@ -531,23 +402,14 @@
                                             impact in Africa. Participate in sideline events that delve deeper into
                                             specific thematic solutions.
                                         </div>
-                                        <!-- <div class="btn-box">
-                                            <a href="event-detail.html" class="theme-btn">Read More</a>
-                                        </div> -->
                                     </div>
                                 </div>
                             </div>
 
-                            <!-- schedule Block -->
                             <div class="schedule-block col-lg-6 col-md-12 col-sm-12">
                                 <div class="inner-box">
                                     <div class="inner">
                                         <div class="date">12.00 AM - 01.00 PM</div>
-                                        <!-- <div class="speaker-info">
-                                            <figure class="thumb"><img src="images/resource/thumb-2.jpg" alt=""></figure>
-                                            <h5 class="name">Ashli Scroggy</h5>
-                                            <span class="designation">Founder & CEO</span>
-                                        </div> -->
                                         <h4><a>Launch of Expo Booths (for both women in agri-business & service
                                                 providers).</a></h4>
                                         <div class="text">Explore the vibrant exhibition area featuring women-led
@@ -555,9 +417,6 @@
                                             impact in Africa. Participate in sideline events that delve deeper into
                                             specific thematic solutions.
                                         </div>
-                                        <!-- <div class="btn-box">
-                                            <a href="event-detail.html" class="theme-btn">Read More</a>
-                                        </div> -->
                                     </div>
                                 </div>
                             </div>
@@ -566,20 +425,14 @@
                                 <div class="inner-box">
                                     <div class="inner">
                                         <div class="date">12.00 AM - 01.00 PM</div>
-                                        <!-- <div class="speaker-info">
-                                            <figure class="thumb"><img src="images/resource/thumb-2.jpg" alt=""></figure>
-                                            <h5 class="name">Ashli Scroggy</h5>
-                                            <span class="designation">Founder & CEO</span>
-                                        </div> -->
+
                                         <h4><a>Fireside business chats.</a></h4>
                                         <div class="text">Explore the vibrant exhibition area featuring women-led
                                             businesses and organizations that are driving economic growth and social
                                             impact in Africa. Participate in sideline events that delve deeper into
                                             specific thematic solutions.
                                         </div>
-                                        <!-- <div class="btn-box">
-                                            <a href="event-detail.html" class="theme-btn">Read More</a>
-                                        </div> -->
+
                                     </div>
                                 </div>
                             </div>
@@ -588,11 +441,7 @@
                                 <div class="inner-box">
                                     <div class="inner">
                                         <div class="date">12.00 AM - 01.00 PM</div>
-                                        <!-- <div class="speaker-info">
-                                            <figure class="thumb"><img src="images/resource/thumb-2.jpg" alt=""></figure>
-                                            <h5 class="name">Ashli Scroggy</h5>
-                                            <span class="designation">Founder & CEO</span>
-                                        </div> -->
+
                                         <h4><a>Roundtable on a gender-inclusive transition to
                                                 agro-industrialization.</a></h4>
                                         <div class="text">Explore the vibrant exhibition area featuring women-led
@@ -600,9 +449,7 @@
                                             impact in Africa. Participate in sideline events that delve deeper into
                                             specific thematic solutions.
                                         </div>
-                                        <!-- <div class="btn-box">
-                                            <a href="event-detail.html" class="theme-btn">Read More</a>
-                                        </div> -->
+
                                     </div>
                                 </div>
                             </div>
@@ -611,91 +458,57 @@
                         </div>
                     </div>
 
-                    <!--Tab-->
                     <div class="tab" id="tab-2">
                         <div class="schedule-timeline row">
-                            <!-- schedule Block -->
                             <div class="schedule-block col-lg-6 col-md-12 col-sm-12">
                                 <div class="inner-box">
                                     <div class="inner">
                                         <div class="date">9.00 AM - 10.00 AM</div>
-                                        <!-- <div class="speaker-info">
-                                            <figure class="thumb"><img src="images/resource/thumb-1.jpg" alt=""></figure>
-                                            <h5 class="name">Ashli Scroggy</h5>
-                                            <span class="designation">Founder & CEO</span>
-                                        </div> -->
+
                                         <h4><a>Roundtable on a gender-inclusive transition to
                                                 agro-industrialization.</a></h4>
                                         <div class="text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
                                             do eiusmtempor incididunt labore et
                                         </div>
-                                        <!-- <div class="btn-box">
-                                            <a href="event-detail.html" class="theme-btn">Read More</a>
-                                        </div> -->
+
                                     </div>
                                 </div>
                             </div>
 
-                            <!-- schedule Block -->
                             <div class="schedule-block col-lg-6 col-md-12 col-sm-12">
                                 <div class="inner-box">
                                     <div class="inner">
                                         <div class="date">10.00 AM - 11.00 AM</div>
-                                        <!-- <div class="speaker-info">
-                                            <figure class="thumb"><img src="images/resource/thumb-2.jpg" alt=""></figure>
-                                            <h5 class="name">Ashli Scroggy</h5>
-                                            <span class="designation">Founder & CEO</span>
-                                        </div> -->
                                         <h4><a>Roundtable on women’s access to regional and global markets.</a></h4>
                                         <div class="text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
                                             do eiusmtempor incididunt labore et
                                         </div>
-                                        <!-- <div class="btn-box">
-                                            <a href="event-detail.html" class="theme-btn">Read More</a>
-                                        </div> -->
+
                                     </div>
                                 </div>
                             </div>
 
-                            <!-- schedule Block -->
                             <div class="schedule-block col-lg-6 col-md-12 col-sm-12">
                                 <div class="inner-box">
                                     <div class="inner">
                                         <div class="date">11.00 AM - 12.00 AM</div>
-                                        <!-- <div class="speaker-info">
-                                            <figure class="thumb"><img src="images/resource/thumb-1.jpg" alt=""></figure>
-                                            <h5 class="name">Ashli Scroggy</h5>
-                                            <span class="designation">Founder & CEO</span>
-                                        </div> -->
                                         <h4><a>Roundtable on transformative climate solutions for agri-business
                                                 women.</a></h4>
                                         <div class="text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
                                             do eiusmtempor incididunt labore et
                                         </div>
-                                        <!-- <div class="btn-box">
-                                            <a href="event-detail.html" class="theme-btn">Read More</a>
-                                        </div> -->
                                     </div>
                                 </div>
                             </div>
 
-                            <!-- schedule Block -->
                             <div class="schedule-block col-lg-6 col-md-12 col-sm-12">
                                 <div class="inner-box">
                                     <div class="inner">
                                         <div class="date">12.00 AM - 01.00 PM</div>
-                                        <!-- <div class="speaker-info">
-                                            <figure class="thumb"><img src="images/resource/thumb-2.jpg" alt=""></figure>
-                                            <h5 class="name">Ashli Scroggy</h5>
-                                            <span class="designation">Founder & CEO</span>
-                                        </div> -->
                                         <h4><a>Roundtable on agri-tech and inclusive digital economies.</a></h4>
                                         <div class="text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
                                             do eiusmtempor incididunt labore et
                                         </div>
-                                        <!-- <div class="btn-box">
-                                            <a href="event-detail.html" class="theme-btn">Read More</a>
-                                        </div> -->
                                     </div>
                                 </div>
                             </div>
@@ -704,18 +517,11 @@
                                 <div class="inner-box">
                                     <div class="inner">
                                         <div class="date">12.00 AM - 01.00 PM</div>
-                                        <!-- <div class="speaker-info">
-                                            <figure class="thumb"><img src="images/resource/thumb-2.jpg" alt=""></figure>
-                                            <h5 class="name">Ashli Scroggy</h5>
-                                            <span class="designation">Founder & CEO</span>
-                                        </div> -->
                                         <h4><a>Pitching and Deal Rooms..</a></h4>
                                         <div class="text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
                                             do eiusmtempor incididunt labore et
                                         </div>
-                                        <!-- <div class="btn-box">
-                                            <a href="event-detail.html" class="theme-btn">Read More</a>
-                                        </div> -->
+
                                     </div>
                                 </div>
                             </div>
@@ -725,18 +531,11 @@
                                 <div class="inner-box">
                                     <div class="inner">
                                         <div class="date">12.00 AM - 01.00 PM</div>
-                                        <!-- <div class="speaker-info">
-                                            <figure class="thumb"><img src="images/resource/thumb-2.jpg" alt=""></figure>
-                                            <h5 class="name">Ashli Scroggy</h5>
-                                            <span class="designation">Founder & CEO</span>
-                                        </div> -->
                                         <h4><a>Roundtable on agri-tech and inclusive digital economies.</a></h4>
                                         <div class="text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
                                             do eiusmtempor incididunt labore et
                                         </div>
-                                        <!-- <div class="btn-box">
-                                            <a href="event-detail.html" class="theme-btn">Read More</a>
-                                        </div> -->
+
                                     </div>
                                 </div>
                             </div>
@@ -747,7 +546,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> --}}
     <!--End schedule Section -->
 
 
@@ -939,9 +738,9 @@
 
                         <div class="sec-title style-two">
 
-                            <span class="title">Reach us</span>
+                            <span class="title">Event Details</span>
 
-                            <h2>Direction for the <br>Venue</h2>
+                            {{-- <h2>Direction for the <br>Venue</h2> --}}
 
                         </div>
 
@@ -952,9 +751,9 @@
 
                             <ul class="tab-buttons clearfix">
 
-                                <li class="tab-btn active-btn" data-tab="#tab1">Time</li>
+                                <li class="tab-btn active-btn" data-tab="#tab1">Venue</li>
 
-                                <li class="tab-btn" data-tab="#tab2">Venue</li>
+                                {{-- <li class="tab-btn" data-tab="#tab2">Venue</li> --}}
 
                                 <!-- <li class="tab-btn" data-tab="#tab3">How to</li> -->
 
@@ -967,28 +766,31 @@
 
                                 <div class="tab active-tab" id="tab1">
 
-                                    <h4><span class="icon far fa-calendar"></span> October 23, 2023</h4>
+                                    <h4><span class="icon fa fa-map-marker-alt"></span> Gulu City - 21st and 22nd Nov 2023 </h4><br>
 
-                                    <div class="text">9.00 AM - 04.00 PM</div>
+                                    <h4><span class="icon fa fa-map-marker-alt"></span> Jinja City - 7th and 8th Dec 2023</h4><br>
 
-                                    <ul class="info-list">
+                                    <h4><span class="icon fa fa-map-marker-alt"></span>Serena Kigo Hotel in Kampala - 14th January 2024</h4><br>
 
-                                        <li><span class="icon icon_profile"></span> Support</li>
-
-                                        <li><span class="icon icon_phone"></span> <a>+256 777777777</a></li>
-
-                                        <li><span class="icon icon_mail"></span> <a
-                                                href="Secretariat@afriwgsdgsummit.org">Secretariat@afriwgsdgsummit.org</a>
-                                        </li>
-
-                                    </ul>
+                                    {{-- <div class="text">
+                                        Speke Resort and Conference Centre
+                                        Wavamunno Road,
+                                        <br>
+                                        P. O. Box 446, Kampala
+                                        Uganda
+                                        <br>
+                                        Call:
+                                        <br>+256 (0) 752 711 714
+                                        <br>+256 (0) 414 227 111
+                                        <br>+256 (0) 417 716 000
+                                    </div> --}}
 
                                 </div>
 
 
                                 <!--Tab-->
 
-                                <div class="tab" id="tab2">
+                                {{-- <div class="tab" id="tab2">
 
                                     <h4><span class="icon fa fa-map-marker-alt"></span>Commonwealth Resort Hotel
                                         Munyonyo, Kampala</h4>
@@ -1005,7 +807,7 @@
                                         <br>+256 (0) 414 227 111
                                         <br>+256 (0) 417 716 000
                                     </div>
-                                </div>
+                                </div> --}}
 
 
                                 <!--Tab-->
@@ -1065,30 +867,17 @@
 
                         <li class="tab-btn active-btn" data-tab="#tab-1">
 
-                            <span class="day">WOMEN HOLD THE POTENTIAL</span>
+                            <span class="day">THE CHALLENGES & BARRIERS WOMEN FACE</span>
 
                         </li>
 
                         <li class="tab-btn" data-tab="#tab-3">
-
-                            <!-- <span class="day">THE MAJOR CHALLENGES WE MUST ADDRESS</span> -->
-                            <span class="day">A SPOTLIGHT ON THE OPPORTUNITIES</span>
-
-                            <!-- <span class="date">02</span> -->
-
-                            <!-- <span class="month">Jan</span> 2023 -->
-
+                            <span class="day">OPPORTUNITIES FOR ADVANCING WOMEN FARMERS </span>
                         </li>
 
 
                         <li class="tab-btn" data-tab="#tab-4">
-
-                            <!-- <span class="day">A SPOTLIGHT ON THE OPPORTUNITIES</span> -->
-                            <span class="day">THE MAJOR CHALLENGES WE MUST ADDRESS</span>
-
-                            <!-- <span class="date">03</span> -->
-
-                            <!-- <span class="month">Jan</span> 2023 -->
+                            <span class="day">WOMEN HOLD THE POTENTIAL OF TRANSITIONING TO AGRO-INDUSTRIALISATION</span>
 
                         </li>
 
@@ -1122,111 +911,116 @@
 
                                 <div class="sec-title text-center">
 
-                                    <h3>WOMEN HOLD THE POTENTIAL FOR A JUST AND GREEN
-                                        <br>TRANSITION TO AGRO-INDUSTRIALISATION IN AFRICA</h3>
+                                    <h3>THE CHALLENGES AND BARRIERS THAT WOMEN IN AGRIBUSINESS FACE </h3>
 
                                 </div>
 
+                                
 
                                 <div class="row">
 
-                                    <div class="news-block col-lg-4 col-md-6 col-sm-12 wow fadeInRight">
+                                    <div class="news-block">
 
                                         <div class="inner-box">
 
                                             <div class="image-box">
 
-                                                <figure class="image"><a><img src="images/resource/expo6.png"
-                                                                              alt=""></a></figure>
+                                                <figure class="image"><a><img
+                                                            src="images/gallery/newpic.jpg" alt=""></a>
+                                                </figure>
 
                                             </div>
 
                                             <div class="lower-content">
+                                                <div class="sec-title text-center">
+                                                    
+                                                   
+                                                </div>
 
-                                                <h4><a>SUBSISTENCE</a></h4>
-
-                                                <ul class="list-style-one">
-
-                                                    <li>Production for home-consumption,including on-farm processing
-                                                    </li>
-
-                                                    <li> Local/informal processing of traditional foods for home use or
-                                                        sale in local markets
-                                                    </li>
-
-                                                </ul>
-
-                                            </div>
-
-                                        </div>
-
-                                    </div>
-
-                                    <div class="news-block col-lg-4 col-md-6 col-sm-12 wow fadeInRight"
-                                         data-wow-delay="400ms">
-
-                                        <div class="inner-box">
-
-                                            <div class="image-box">
-
-                                                <figure class="image"><a><img src="images/resource/expo3.png"
-                                                                              alt=""></a></figure>
-
-                                            </div>
-
-                                            <div class="lower-content">
-
-                                                <h4><a>COMMERCIALISATION</a></h4>
-
+                                                <h4><a>Access to finance</a></h4>
 
                                                 <ul class="list-style-one">
-
-                                                    <li>On-farm or local processing with some value addition
-                                                        activities.
+                                                    
+                                                    <li>Limited financial literacy and knowledge of basic financial
+                                                        tools.
                                                     </li>
 
-                                                    <li> Formal processing,branding and packaging.</li>
+                                                    <li>Limited availability of tailored products.</li>
+
+                                                    <li>Exploitative non-formal financial service providers.</li>
+
+                                                    <li>Limited trust in the banking system.</li>
+
+                                                    <li>Lower confidence in navigating financial procedures.</li>
 
                                                 </ul>
 
 
-                                            </div>
 
-                                        </div>
 
-                                    </div>
-
-                                    <div class="news-block col-lg-4 col-md-6 col-sm-12 wow fadeInRight"
-                                         data-wow-delay="800ms">
-
-                                        <div class="inner-box">
-
-                                            <div class="image-box">
-
-                                                <figure class="image"><a><img src="images/resource/expo8.png"
-                                                                              alt=""></a></figure>
-
-                                            </div>
-
-                                            <div class="lower-content">
-
-                                                <h4><a>INDUSTRIALISATION</a></h4>
-
+                                                <h4><a>Access to markets</a></h4>
 
                                                 <ul class="list-style-one">
 
-                                                    <li>Formal and large-scale processing.</li>
+                                                    <li>Less access to high-value markets and value chains
+                                                        (concentration in services and retail sectors).
+                                                    </li>
 
-                                                    <li> End-use of products in industrial processing (beverages,
-                                                        brewing, pharmaceuticals)
+                                                    <li>Less access to digital platforms & marketing know-how.</li>
+
+                                                    <li> Less access to appropriate local, national, and international
+                                                        business networks.
                                                     </li>
 
                                                 </ul>
+
+                                                <h4><a>Digital empowerment</a></h4>
+
+                                                <ul class="list-style-one">
+
+                                                    <li>Limited autonomy over the information stored on mobile phones
+                                                        often being a shared asset amongst family members
+                                                    </li>
+
+                                                    <li>Poor digital infrastructure and high internet-related costs.
+                                                    </li>
+
+                                                    <li>Lower skills to digitize value chain activities such as
+                                                        inventory, sales, wage bills, Online business registration and
+                                                        taxation services.
+                                                    </li>
+
+                                                    <li>Limited access to experts and mentors.</li>
+
+
+
+
+                                                    <h4><a>Discriminatory norms
+                                                    </a></h4>
+
+                                                    <ul class="list-style-one">
+    
+                                                        <li>Women operating in food markets, must deal with unwanted advances, and transactional sex, without resources to seek justice.
+                                                        </li>
+    
+                                                        <li>
+                                                            Customary norms that vest property management decisions in men, perpetuate violence against women in business, when using property as collateral, and where spouses and parents have suddenly passed on without making a will.
+
+                                                        </li>
+    
+                                                    
+
+                                                </ul>
+                                                <br><br>
+                                                <h5 >UN Women and Goverment of Uganda recognize the barriers that women in agribusiness face and The summit aims to address these issues and support women in their agribusiness endeavors.
+                                                </h5>
                                             </div>
+                                            
 
                                         </div>
-
                                     </div>
+
+                                   
 
                                 </div>
 
@@ -1261,43 +1055,35 @@
 
                                 <div class="sec-title text-center">
 
-                                    <h3>A SPOTLIGHT ON THE OPPORTUNITIES FOR LINKING WOMEN TO <br>
-                                        PROTIBLE REGIONAL AND GLOBAL MARKETS</h3>
+                                    <h3>OPPORTUNITIES FOR ADVANCING WOMEN FARMERS </h3>
 
                                 </div>
 
                                 <div class="row">
 
-                                    <div class="news-block col-lg-4 col-md-6 col-sm-12 wow fadeInRight">
+                                    <div class="news-block">
 
                                         <div class="inner-box">
 
                                             <div class="image-box">
 
-                                                <figure class="image"><a><img src="images/resource/expo8.png"
-                                                                              alt=""></a></figure>
+                                               <figure class="image"><a><img src="images/gallery/newpic.jpg" alt=""></a></figure> 
 
                                             </div>
 
                                             <div class="lower-content">
-                                                <h4><a>CONSUMER DEMAND WITHIN UGANDA HAS JUMPED UP</a></h4>
+                                                <h4><a>Opportunities
+                                                </a></h4>
                                                 <ul class="list-style-one">
 
-                                                    <li>Ugandans eat 272.155 kilograms of Bananas per capita while
-                                                        Americans consume 12.247-kilogram pounds of bananas per capita
+                                                    <li>
+                                                        The rising global demand for healthier diets offers women farmers the chance to produce organic fruits and vegetables, poultry, and other products. Women play a significant role in the production of staple foods like cassava, maize, and yams, and they can tap into regional trading networks, providing value-added products and reducing vulnerability to global market fluctuations.
+
                                                     </li>
 
-                                                    <li> Average per capita bean consumption in Uganda is 22.41
-                                                        kg/person/year. Per capita total maize consumption in Uganda is
-                                                        28 kilograms
-                                                    </li>
+                                                    <li> 
+                                                        Infrastructure investments in transport, ICTs, and energy are making agribusiness more accessible for women. The growth in mobile financial services enables digitization and access to financial services, while scholarships and gender-focused bonds provide funding for women in business.
 
-                                                    <li>Per capita consumption of cassava is 132 kg, accounting out 11%
-                                                        of the caloric intake in Uganda.
-                                                    </li>
-
-                                                    <li> Also, maize, beans, bananas and Cassava are among the most
-                                                        traded food commodities in Uganda
                                                     </li>
 
                                                 </ul>
@@ -1309,84 +1095,7 @@
 
                                     </div>
 
-                                    <div class="news-block col-lg-4 col-md-6 col-sm-12 wow fadeInRight"
-                                         data-wow-delay="400ms">
-
-                                        <div class="inner-box">
-
-                                            <div class="image-box">
-
-                                                <figure class="image"><a><img src="images/resource/expo1.png"
-                                                                              alt=""></a></figure>
-
-                                            </div>
-
-                                            <div class="lower-content">
-
-                                                <h4><a>RAPID EXPANSION OF FOOD EXPORT MARKETS</a></h4>
-
-                                                <ul class="list-style-one">
-
-                                                    <li>Maize, beans, bananas and Cassava are the common denominator in
-                                                        local and regional trade in staple foods.
-                                                    </li>
-
-                                                    <li> All these 4 staples are consumed in large quantities and are
-                                                        among the best traded in Uganda.
-                                                    </li>
-
-                                                    <li> These are the commodities Ugandan women should prioritize and
-                                                        invest in.
-                                                    </li>
-
-                                                </ul>
-
-                                            </div>
-
-                                        </div>
-
-                                    </div>
-
-                                    <div class="news-block col-lg-4 col-md-6 col-sm-12 wow fadeInRight"
-                                         data-wow-delay="800ms">
-
-                                        <div class="inner-box">
-
-                                            <div class="image-box">
-
-                                                <figure class="image"><a><img src="images/resource/expo5.png"
-                                                                              alt=""></a></figure>
-
-                                            </div>
-
-                                            <div class="lower-content">
-
-
-                                                <h4><a>INFRASTRACTURE INVESTMENTS ARE REDUCING THE COST OF DOING
-                                                        AGRI-BUSINESS</a></h4>
-
-                                                <ul class="list-style-one">
-
-                                                    <li>The completion of the two major transport corridors (northern
-                                                        and central) in the EAC region lowers the costs of doing
-                                                        business and promotes regional trade competitiveness and
-                                                        integration..
-                                                    </li>
-
-                                                    <li> A total of 14 grid expansion and reinforcement projects for
-                                                        agro-processing growth in Uganda.
-                                                    </li>
-
-                                                    <li> Interoperability in Mobile Financial Services across Africa.
-                                                    </li>
-
-                                                </ul>
-
-                                            </div>
-
-                                        </div>
-
-                                    </div>
+                                    {{--  --}}
 
                                 </div>
 
@@ -1416,161 +1125,69 @@
                             </div>
 
 
+                          
+
+
                             <div class="auto-container">
 
                                 <div class="sec-title text-center">
 
-                                    <h3>THE MAJOR CHALLENGES WE MUST ADDRESS TO
-                                        <br>MAXIMIZE WOMEN’S POTENTIAL</h3>
+                                    <h3>WOMEN HOLD THE POTENTIAL OF TRANSITIONING TO AGRO-INDUSTRIALISATION THROUGH THE FOLLOWING</h3>
 
                                 </div>
 
 
                                 <div class="row">
 
-                                    <div class="news-block col-lg-4 col-md-6 col-sm-12 wow fadeInRight">
+                                    <div class="news-block">
 
                                         <div class="inner-box">
 
                                             <div class="image-box">
 
-                                                <figure class="image"><a><img
-                                                            src="images/resource/sexual-health-edu.png" alt=""></a>
-                                                </figure>
-
-                                            </div>
-
-                                            <div class="lower-content">
-
-                                                <h4><a>Access to finance</a></h4>
-
-                                                <ul class="list-style-one">
-
-                                                    <li>Limited financial literacy and knowledge of basic financial
-                                                        tools.
-                                                    </li>
-
-                                                    <li>Limited availability of tailored products.</li>
-
-                                                    <li>Exploitative non-formal financial service providers.</li>
-
-                                                    <li>Limited trust in the banking system.</li>
-
-                                                    <li>Lower confidence in navigating financial procedures.</li>
-
-                                                </ul>
-
-                                            </div>
-
-                                        </div>
-
-                                    </div>
-
-                                    <div class="news-block col-lg-4 col-md-6 col-sm-12 wow fadeInRight"
-                                         data-wow-delay="400ms">
-
-                                        <div class="inner-box">
-
-                                            <div class="image-box">
-
-                                                <figure class="image"><a><img src="images/resource/expo5.png"
+                                                <figure class="image"><a><img src="images/gallery/newpic.jpg"
                                                                               alt=""></a></figure>
 
                                             </div>
 
                                             <div class="lower-content">
 
-                                                <h4><a>Access to markets</a></h4>
+                                                <h4><a>SUBSISTENCE</a></h4>
 
                                                 <ul class="list-style-one">
 
-                                                    <li>Less access to high-value markets and value chains
-                                                        (concentration in services and retail sectors).
+                                                    <li>Production for home-consumption,including on-farm processing
                                                     </li>
 
-                                                    <li>Less access to digital platforms & marketing know-how.</li>
-
-                                                    <li> Less access to appropriate local, national, and international
-                                                        business networks.
+                                                    <li> Local/informal processing of traditional foods for home use or
+                                                        sale in local markets
                                                     </li>
 
                                                 </ul>
 
-                                            </div>
+                                                <h4><a>COMMERCIALISATION</a></h4>
 
-                                        </div>
-
-                                    </div>
-
-                                    <div class="news-block col-lg-4 col-md-6 col-sm-12 wow fadeInRight"
-                                         data-wow-delay="800ms">
-
-                                        <div class="inner-box">
-
-                                            <div class="image-box">
-
-                                                <figure class="image"><a><img src="images/resource/girls-can-code.png"
-                                                                              alt=""></a></figure>
-
-                                            </div>
-
-                                            <div class="lower-content">
-
-                                                <h4><a>Digital empowerment</a></h4>
 
                                                 <ul class="list-style-one">
 
-                                                    <li>Limited autonomy over the information stored on mobile phones
-                                                        often being a shared asset amongst family members
+                                                    <li>On-farm or local processing with some value addition
+                                                        activities.
                                                     </li>
 
-                                                    <li>Poor digital infrastructure and high internet-related costs.
-                                                    </li>
-
-                                                    <li>Lower skills to digitize value chain activities such as
-                                                        inventory, sales, wage bills, Online business registration and
-                                                        taxation services.
-                                                    </li>
-
-                                                    <li>Limited access to experts and mentors.</li>
+                                                    <li> Formal processing,branding and packaging.</li>
 
                                                 </ul>
 
-                                            </div>
 
-                                        </div>
+                                                <h4><a>INDUSTRIALISATION</a></h4>
 
-                                    </div>
-
-
-                                    <div class="news-block col-lg-4 col-md-6 col-sm-12 wow fadeInRight"
-                                         data-wow-delay="800ms">
-
-                                        <div class="inner-box">
-
-                                            <div class="image-box">
-
-                                                <figure class="image"><a><img src="images/resource/expo8.png"
-                                                                              alt=""></a></figure>
-
-                                            </div>
-
-                                            <div class="lower-content">
-
-                                                <h4><a>Eliminate discriminatory social norms</a></h4>
 
                                                 <ul class="list-style-one">
 
-                                                    <li>Women operating in food markets, who must deal with unwanted
-                                                        advances, inappropriate touches and transactional sex, without
-                                                        resources to seek justice.
-                                                    </li>
+                                                    <li>Formal and large-scale processing.</li>
 
-                                                    <li>Customary norms that vest property management decisions in men,
-                                                        which perpetuates violence against women in business, when using
-                                                        property as collateral,
-                                                        and where spouses and parents have suddenly passed on without
-                                                        making a will that befits statutory standards.
+                                                    <li> End-use of products in industrial processing (beverages,
+                                                        brewing, pharmaceuticals)
                                                     </li>
 
                                                 </ul>

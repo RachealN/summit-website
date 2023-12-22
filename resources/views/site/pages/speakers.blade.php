@@ -215,7 +215,7 @@ Guided by the United Nations Uganda’s vision of contributing to a transformed,
 
                     <div class="image-box">
 
-                        <figure class="image"><img src="images/resource/maxime3.png" alt=""></figure>
+                        <figure class="image"><img src="images/resource/amina.png" alt=""></figure>
 
                         <ul class="social-icon-two social-icon-colored text-center">
                             <p>Regional Director, UN Women East and Southern Africa Regional Office</p>
