@@ -43,7 +43,7 @@
                     <div class="pricing-block-three col-lg-4 col-md-6 col-sm-12 wow fadeInUp animated" data-wow-delay="400ms" style="visibility: visible; animation-delay: 400ms; animation-name: fadeInUp;">
                         <div class="inner-box">
                             <div class="title">Family</div>
-                            <h4 class="price">$59</h4>
+                            <h4 class="price">$100</h4>
                             <ul class="features">
                                 <li>05 Conference Tickets</li>
                                 <li>Free Lunch And Coffee</li>
@@ -59,7 +59,7 @@
                     <div class="pricing-block-three col-lg-4 col-md-6 col-sm-12 wow fadeInUp animated" data-wow-delay="1200ms" style="visibility: visible; animation-delay: 1200ms; animation-name: fadeInUp;">
                         <div class="inner-box">
                             <div class="title">GROUP</div>
-                            <h4 class="price">$99</h4>
+                            <h4 class="price">$150</h4>
                             <ul class="features">
                                 <li>10 Conference Tickets</li>
                                 <li>Free Lunch And Coffee</li>

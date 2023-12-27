@@ -6,9 +6,9 @@
 
         <div class="auto-container clearfix">
 
-            {{-- <div class="logo-box">
-                <div class="logo"><a href="index.html"><img src="images/logo6.png" alt="" title=""></a></div>
-            </div> --}}
+            <div class="logo-box">
+                {{-- <div class="logo"><a href="index.html"><img src="images/logo.png" alt="" title=""></a></div> --}}
+            </div>
 
             <!--Nav Box-->
             <div class="nav-outer clearfix">

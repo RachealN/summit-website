@@ -87,7 +87,7 @@
                                             <h5 for="message">Message</h5>
                                             <textarea class="form-control" id="message" rows="3" placeholder="Message"></textarea>
                                         </div>
-                                        <button class="btn btn-primary">Submit</button>
+                                        <button class="theme-btn btn-style-one">Submit</button>
                                     </form>
                                 </div>
                                 </body>
