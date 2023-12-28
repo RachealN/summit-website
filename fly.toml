@@ -1,9 +1,9 @@
-# fly.toml app configuration file generated for withered-bush-6734 on 2023-12-28T03:51:47+03:00
+# fly.toml app configuration file generated for crimson-cloud-5820 on 2023-12-28T23:11:54+03:00
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = "withered-bush-6734"
+app = "crimson-cloud-5820"
 primary_region = "jnb"
 console_command = "php /var/www/html/artisan tinker"
 
